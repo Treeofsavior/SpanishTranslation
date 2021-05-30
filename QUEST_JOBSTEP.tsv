@@ -1,8 +1,8 @@
-QUEST_JOBSTEP_20150317_000001	Bokor. You've chosen a difficult path. {nl}Refer to the instructions in your Adventure Journal and make your own doll.
+QUEST_JOBSTEP_20150317_000001	Bokor. You’ve chosen a difficult path. {nl}Refer to the instructions in your Adventure Journal and make your own doll.
 QUEST_JOBSTEP_20150317_000002	You must make a doll by yourself. {nl}Check your Adventure Journal to see how you can make the doll. 
 QUEST_JOBSTEP_20150317_000003	Congratulations, a new Bokor is born. {nl}When I first chose the path of a Bokor, I started by creating a doll of my own. 
 QUEST_JOBSTEP_20150317_000004	Peltasta Master
-QUEST_JOBSTEP_20150317_000005	If you want to receive my teachings then you have to prove your worth first.{nl}Here's a challenge: Defeat some Vubbes on the 1st Floor of the Crystal Mine.
+QUEST_JOBSTEP_20150317_000005	If you want to receive my teachings then you have to prove your worth first.{nl}Here’s a challenge: Defeat some Vubbes on the 1st Floor of the Crystal Mine.
 QUEST_JOBSTEP_20150317_000006	How can you bear the title of Peltasta if you can't even handle that much? 
 QUEST_JOBSTEP_20150317_000007	Good. {nl}I hope your new growth leads to you saving the world. 
 QUEST_JOBSTEP_20150317_000008	Highlander Master
@@ -49,14 +49,14 @@ QUEST_JOBSTEP_20150317_000048	My research is about the methods of shifting psych
 QUEST_JOBSTEP_20150317_000049	Linker Master
 QUEST_JOBSTEP_20150317_000050	Temperament is very important for Linkers. {nl}While it may be easy to shut out one's heart, opening it up requires a special kind of temperament. {nl}
 QUEST_JOBSTEP_20150317_000051	I will test you to see if you have such temperament. 
-QUEST_JOBSTEP_20150317_000052	Good. However, you must prepare some materials before taking the test.{nl}Bring me Thornball Thorns and Fragments of Velwriggler from the Gate Route.
+QUEST_JOBSTEP_20150317_000052	Good. However, you must prepare some materials before taking the test.{nl}Bring me a Dunball’s thorn and Velwriggler’s carving at the Gate Route.[?]
 QUEST_JOBSTEP_20150317_000053	Excellent! {nl}But this is just to prepare you for the test. {nl}
 QUEST_JOBSTEP_20150317_000054	I will start the test now. {nl}Behind the Gate Route is a rip in the space of the world.{nl}
 QUEST_JOBSTEP_20150317_000055	Normal people are only capable of seeing reality as is, but if you have the temperament of a Linker, {nl}you should be able to perceive a hidden world. {nl}Find the book from there and bring it to me. 
-QUEST_JOBSTEP_20150317_000056	Have you gone there yet? {nl}Just go to the Gate Route and check. I've marked the location on the map.{nl}
+QUEST_JOBSTEP_20150317_000056	Have you gone there yet? {nl}Just go to the Gate Route and check. I’ve marked the location on the map.{nl}
 QUEST_JOBSTEP_20150317_000057	Looks like you found the book. With this, you have passed my test. {nl} Nevertheless, please read that book to demonstrate your determination as a Linker. 
 QUEST_JOBSTEP_20150317_000058	So you want me to teach you the skills of a Sapper... well then you must customarily pay a fee for my service. {nl}Not to me. But rather, I want you to give a donation to the Cleric Master in Klaipeda. {nl}Let's say, around 5000 silver? 
-QUEST_JOBSTEP_20150317_000059	Wait, there's one more thing. {nl}I hid some objects at Flude Island in the Siauliai Western Woods.{nl}Before you go to Klaipeda, find the objects first and return them to their original owners in Klaipeda.{nl}{nl} 
+QUEST_JOBSTEP_20150317_000059	Wait, there’s one more thing. {nl}I hid some objects at Flude Island in the Siauliai Western Woods.{nl}Before you go to Klaipeda, find the objects first and return them to their original owners in Klaipeda.{nl}{nl} 
 QUEST_JOBSTEP_20150317_000060	Oh, this. I saw it somewhere...hmm...it looks familiar...{nl}Well I'll take it with gratitude since you're giving it to me.
 QUEST_JOBSTEP_20150317_000061	Ah, this is the tool I lost. {nl}Thanks. Where was it?
 QUEST_JOBSTEP_20150317_000062	Did you forget about the donation? {nl}It's 5000 silver.
@@ -243,7 +243,7 @@ QUEST_JOBSTEP_20150317_000242	I'll give you the special cat food as promised. {n
 QUEST_JOBSTEP_20150317_000243	Oh oh, it's that cat. {nl} As promised, let me lead you to a higher ground. {nl}
 QUEST_JOBSTEP_20150317_000244	I've traded for a long time with a Klaipeda Item Merchant, so they might help you. 
 QUEST_JOBSTEP_20150317_000245	I want you to do something in return for learning magic from me. {nl}It's simple but a little dangerous. Would you like to give it a try? {nl}
-QUEST_JOBSTEP_20150317_000246	Just put this pot in the reading room that is at the 1st floor of the Mage Tower.{nl}The problem is that there are Chapparition that are standing in the reading room... I think you would be more than able to defeat them.
+QUEST_JOBSTEP_20150317_000246	Just put this pot in the reading room that is at the 1st floor of the Mage Tower.{nl}The problem is that there are Chapparition that are standing in the reading room.. I think you would be more than able to defeat them.
 QUEST_JOBSTEP_20150317_000247	If you find it dangerous, please get out quickly. {nl}I'll just have to find another disciple. 
 QUEST_JOBSTEP_20150317_000248	Good work. {nl}I will teach Pyromancy as promised. {nl}
 QUEST_JOBSTEP_20150317_000249	I can promise you a higher level of strength. {nl}Of course, it won't come for free.
@@ -348,7 +348,7 @@ QUEST_JOBSTEP_20150317_000347	There are rumors that a huge monster is roaming ar
 QUEST_JOBSTEP_20150317_000348	So please check the Crystal Mine' 2nd Floor and get rid of the source of the rumors.
 QUEST_JOBSTEP_20150317_000349	The safety of the villagers is on the line. {nl}Please search it thoroughly.
 QUEST_JOBSTEP_20150317_000350	I can't believe there's still that kind of thing left...{nl}It's a relief that no one was hurt. {nl}We should consider sending the elite troops until the Crystal Mine is stable.
-QUEST_JOBSTEP_20150317_000351	Anyway, thank you for the hard work and send my thanks to the Highlander Master. {nl}I will thank the Peltasta Master when I meet her soon.
+QUEST_JOBSTEP_20150317_000351	Anyway, thank you for the hard work and send my thanks to the Highlander Master. {nl}I will thank the Peltasta Master when I meet him soon.
 QUEST_JOBSTEP_20150317_000352	Good work. Now the Pelatastas owe me another one.{nl}I will lead you as the Highlander Master promised.
 QUEST_JOBSTEP_20150317_000353	Seems like I get your help a lot. {nl}Please take care of Klaipeda in the future too.
 QUEST_JOBSTEP_20150317_000354	You want to learn from me? {nl}Alright, I'll accept you if you do me a favor.
@@ -371,7 +371,7 @@ QUEST_JOBSTEP_20150317_000370	Fight with all that you've got. I will show you ho
 QUEST_JOBSTEP_20150317_000371	Do you think otherwise even when your best is not enough?
 QUEST_JOBSTEP_20150317_000372	You have a bad habit. But it could be changed. {nl}I teach strictly so you better be prepared.
 QUEST_JOBSTEP_20150317_000373	Teaching you skills will not be a problem as long as you do me a favor. {nl}
-QUEST_JOBSTEP_20150317_000374	There's something I requested of the Fletcher Master but there's no news yet. {nl}I want you to check on it. I'm more worried about the person than the thing...
+QUEST_JOBSTEP_20150317_000374	There's something I requested of the Fletcher Master but there's no news yet. {nl}I want you to check on it. I'm more worried about the person than the thing..
 QUEST_JOBSTEP_20150317_000375	Did the Archer Master worry? I'm fine. {nl}If there's a problem, it's that the materials can't follow my crafting speed.
 QUEST_JOBSTEP_20150317_000376	Well he's hot tempered so... Please take care of it.
 QUEST_JOBSTEP_20150317_000377	I think it'll be over soon if you gather good stones from the Penitence Route of the Cathedral. {nl}Around 150 will do, I'll give you a bag for them.
@@ -454,7 +454,7 @@ QUEST_JOBSTEP_20150317_000453	We enhance our immunity by experiencing lots of po
 QUEST_JOBSTEP_20150317_000454	Would it make sense if Wugushi is poisoned and weak?
 QUEST_JOBSTEP_20150317_000455	Our teachings are harsh so I hope you understand. {nl}Anyway, you can come anytime if you want to learn.
 QUEST_JOBSTEP_20150317_000456	I'm so ashamed of my disciples ruining all the commissions. {nl}If you do a good job, I will teach you the Quarrel Shooter skills.
-QUEST_JOBSTEP_20150317_000457	It's the Templeshooter in Downtown. {nl} Even my disciples ran away when it was right in front of them, so prepare yourself for it.
+QUEST_JOBSTEP_20150317_000457	It's the Temple Shooter in Downtown Street. {nl} Even my disciples ran away when it was right in front of them, so prepare yourself for it.
 QUEST_JOBSTEP_20150317_000458	You defeated it. Now I feel better. {nl}Come for lessons anytime. I'll teach you wholeheartedly.
 QUEST_JOBSTEP_20150317_000459	Schwarzer Reiter Master
 QUEST_JOBSTEP_20150317_000460	If you want to be a Schwarzer Reiter, then answer this question.{nl}If you want to survive intense battles, what will you need?{nl}
@@ -578,7 +578,7 @@ QUEST_JOBSTEP_20150317_000577	Being a Necromancer is really nice.{nl}But, using 
 QUEST_JOBSTEP_20150317_000578	Very nice indeed.{nl}You have no problem understanding my spells.
 QUEST_JOBSTEP_20150317_000579	Chronomancer Master
 QUEST_JOBSTEP_20150317_000580	If you want to learn my magic, I should first understand your skills.{nl}Defeating Reaverpede at the Remaining Tree Dale should be enough.
-QUEST_JOBSTEP_20150317_000581	No matter how strong a magic is, it can not stop time from flowing.{nl}But, it could be possible if it were Agailla Flurry's work...
+QUEST_JOBSTEP_20150317_000581	No matter how strong a magic is, it can not stop time from flowing.{nl}But, it could be possible if it were Agailla Flurry's work..
 QUEST_JOBSTEP_20150317_000582	You did way better than I expected.{nl}I will acknowledge your skills. Please follow my teachings closely from now on.
 QUEST_JOBSTEP_20150317_000583	I don't know if those Masters really think about the safety of the goddess and the kingdom.{nl}Ironbaum is approaching Klaipeda, but no one is worried about it.
 QUEST_JOBSTEP_20150317_000584	That attitude is what I wanted.{nl}I will teach you the true magic if you defeat Ironbaum at the West Siauliai Woods.
@@ -677,7 +677,7 @@ QUEST_JOBSTEP_20150317_000676	If you want to learn something from me, defeat Gai
 QUEST_JOBSTEP_20150317_000677	This is a very dangerous request that other masters feel uncomfortable with.{nl}If you want more, you should accept more dangerous requests.
 QUEST_JOBSTEP_20150317_000678	I will recognize your skills as promised. {nl}Follow me. I will open the way of the Doppelsoeldner for you.
 QUEST_JOBSTEP_20150317_000679	I will check your skills by seeing whether or not you are able to defeat Gaigalas at the Flowerless Forest. {nl}I wish you the best of luck.
-QUEST_JOBSTEP_20150317_000680	... I guess there's no other way. I think I will be able to test you with this.{nl}I heard there's a person who saw Poata swallowing the crest in the Layered Rock Forest.{nl}Okay then, I am counting on you.
+QUEST_JOBSTEP_20150317_000680	.. I guess there's no other way. I think I will be able to test you with this.{nl}I heard there's a person who saw Poata swallowing the crest in the Layered Rock Forest.{nl}Okay then, I am counting on you.
 QUEST_JOBSTEP_20150317_000681	I lost an important sacred relic of the Krivis.{nl}If you want to reach a higher stage of Krivis, I will help you find the sacred relic again.
 QUEST_JOBSTEP_20150317_000682	There is a strong power within the sacred relic so lots of monsters are pursuing it for themselves.{nl}Losing a sacred relic is like losing your faith.
 QUEST_JOBSTEP_20150317_000683	Well done. Fortunately, the sacred relic is okay.{nl}I will teach you the training of a Krivis as I promised you.
@@ -692,7 +692,7 @@ QUEST_JOBSTEP_20150317_000691	That is my lifelong wish.{nl}That tree always gest
 QUEST_JOBSTEP_20150317_000692	Oh. That's it.{nl}You can come to me anytime you want to learn the lessons of a Dievdirbys!
 QUEST_JOBSTEP_20150317_000693	There is a rumor that many people who have crossed Ruklys Street are suffering from nightmares.{nl}If you want to walk the way of Sadhu, you shall help them.
 QUEST_JOBSTEP_20150317_000694	When you eliminate the source, the nightmares will be gone.{nl}Please go to Ruklys Street and eliminate the source.
-QUEST_JOBSTEP_20150317_000695	You have done a good job.{nl}I'm looking forward to your growth as a Sadhu.
+QUEST_JOBSTEP_20150317_000695	You have done a good job.{nl}I’m looking forward to your growth as a Sadhu.
 QUEST_JOBSTEP_20150317_000696	I heard enough about you, that you have a firm religious belief.{nl}But I want to check it with my own eyes.
 QUEST_JOBSTEP_20150317_000697	Forgive me. I am being picky since this task is in the name of Paladin.{nl}I think defeating Rajapearl at the Lonesome Marketplace would be enough to prove yourself, given your reputation.
 QUEST_JOBSTEP_20150317_000698	Prove your religious belief.{nl}There's nothing to be worried about. The goddess will protect you.
@@ -731,23 +731,23 @@ QUEST_JOBSTEP_20150317_000730	Another tale is of the Fletcher Master's secret to
 QUEST_JOBSTEP_20150317_000731	The rapid production of arrows by the Fletcher Master is regarded to be his sole talent. However he may have a secret lying in wait somewhere in this world. {nl}
 QUEST_JOBSTEP_20150317_000732	Lydia Schaffen Crossroads
 QUEST_JOBSTEP_20150317_000733	{S35} {nl} Lydia Schaffen Crossroads {/}
-QUEST_JOBSTEP_20150317_000734	This is a record to the Royal Family about a story when King Kadumel asked Lydia Schaffen whether she can hit a target behind a boulder or a tree, and how she simply answered the King with the crisp sound of her arrow hitting the target. However, there are some written inconsistencies from the royal record and the folklore. That is, King Kadumel noted at the time, he was not giving Schaffen a test of her abilities with a bow.
-QUEST_JOBSTEP_20150317_000735	A more important fact is what sort of target Lydia Schaffen hit. Or to put it more precisely, who she hit, would be of great significance.{nl}Whenever the royal records and the folklore handle this story, they do not reference the time when it arose.{nl}
+QUEST_JOBSTEP_20150317_000734	This is a record to the Royal Family about a story when King Kadumel asked Lydia Schaffen whether she can hit a target behind a boulder or a tree, and how she simply answered the King with the crisp sound of her arrow hitting the target. However, there are some written inconsistency from the royal record and the folklore. That is, King Kadumel noted at the time, he was not giving Schaffen a test of her abilities with a bow.
+QUEST_JOBSTEP_20150317_000735	A more important fact is what sort of targets Lydia Schaffen hit. Or to put it more precisely, who she hit, would be of great significance.{nl}Whenever the royal records and the folklore handle this story, they do not reference the time when it arose.{nl}
 QUEST_JOBSTEP_20150317_000736	Both versions simply introduce the heroic story by focusing on Lydia Schaffen's great bow skills.{nl}There is a certain reason for this.{nl} The reason is that this story happened in the final days of the Civil War. Differing from the known folklore, Ruklys was not killed by King Kadumel's soldiers in the last layer of the Fortress of the Land. It is said that Ruklys had a particular reason for not letting any outsiders into the heart of his fort.{nl}
 QUEST_JOBSTEP_20150317_000737	Rather than dying, Ruklys escaped moments before his fort was overrun, and King Kadumel ordered his soldiers to go pursue him.{nl} After the pursuit, Ruklys found himself cornered at the edge of a cliff.
-QUEST_JOBSTEP_20150317_000738	There was a large enough rock on the cliff for Ruklys to put his back against while facing the cliff and keeping the King's soldiers at the opposite face of the rock.{nl} Ruklys leaned his back on the rock so the King's archer who tracked him could not attack.{nl} If it were a different location they could have gone to the left and right to surround and rain arrows, but the cliff, alongside the battle formation, was not a place for such attacks.{nl}
+QUEST_JOBSTEP_20150317_000738	There was a large enough rock on the cliff for Ruklys to put his back against while facing the cliff and keeping the King's soldiers at the opposite face of the rock.{nl} Ruklys leaned his back on the rock so the King's Archer who tracked him could not attack.{nl} If it were a different location they could have gone to the left and right to surround and rain arrows, but the cliff, alongside the battle formation, was not a place for such attacks.{nl}
 QUEST_JOBSTEP_20150317_000739	Having no archers who could shoot across the air beyond the cliff, King Kadumel unquestionably drove his soldiers towards the edge of the cliff.{nl}
 QUEST_JOBSTEP_20150317_000740	However Ruklys and his remaining men repelled the King's soldiers, showing their inhuman ability to persist day and night. This even caused the King's peasant soldiers to begin to waver.{nl} Furthermore, Ruklys' heroic struggle made such an impression to some of Kadumel's men and officers, that some started questioning Kadumel's command.{nl} Already unpopular among people under his rule, King Kadumel could not continue pushing his men to their death, he also could not wait until Ruklys died of hunger or fatigue.{nl}
 QUEST_JOBSTEP_20150317_000741	And through this situation, King Kadumel asked a clever question to Lydia Schaffen.{nl}  Of course, Lydia did not take King Kadumel's provocation as a chance to show her skills and fire a meek high angle shot to kill Ruklys. There were other reasons that were overlapping here.
-QUEST_JOBSTEP_20150317_000742	But considering these reasons, in any case, such as having her master's wishes, or the thought that she ended someone's life through her own hands, we as the current generation can only guess how hurt and conflicted were Lydia Schaffen's emotions. Henceforth, people became knowledgeable of the time when Lydia Schaffen easily pierced a target behind a boulder from the crossroads, however, Lydia would bear an immeasurable complex emotion about the crossroads from that day forward.
-QUEST_JOBSTEP_20150317_000743	Lydia Schaffen's Notch
-QUEST_JOBSTEP_20150317_000744	{s35}{nl}Lydia Schaffen's Notch{/}
+QUEST_JOBSTEP_20150317_000742	But considering these reasons, in any case, such as having her master's wishes, or the thought that she ended someone's life through her own hands, we as the current generation can only guess how hurt and conflicted were Lydia Schaffen's emotions. Henceforth, people became knowledgeable of the time when Lydia Schaffen easily pierced a target behind a boulder from the crossroad, however, Lydia would bear an immeasurable complex emotion about the crossroad from that day forward.
+QUEST_JOBSTEP_20150317_000743	The Notch of Lydia Schaffen
+QUEST_JOBSTEP_20150317_000744	{s35}{nl}The Notch of Lydia Schaffen {/}
 QUEST_JOBSTEP_20150317_000745	This story is said to have taken place one day at the Astral Tower.{nl}A dispute among the disciples of Lydia Schaffen broke out.{nl}Several disciples gathered after the training and in the process such a dialogue is said to have come up: 'No matter how good your bow is, if your skills are lacking, you can't bring out its full potential. Therefore, what is important in the end is your own skill.'{nl}Such was a claim of a certain disciple, which started the dispute.{nl}
-QUEST_JOBSTEP_20150317_000746	'You are forgetting the basics of archery. What is an archer? It is someone who uses a tool called a bow, right?{nl}Do you think an archer existing without a bow is possible? {nl}Even if one gets famous for their skill with sword and spear, can one still call themselves an archer? In the end, archery is the concept of depending on tools, isn't it?'{nl}
-QUEST_JOBSTEP_20150317_000747	The disciple who had a different view argued back:{nl}'You said tools are important, let's talk about that.{nl}What is a bow? There are various weapons for an archer. Just like there are weapons that don't need much skill to handle, like a crossbow, there are also weapons, effectiveness of which varies a lot based on a user's skill, like the ones of the Wugushi.{nl}The Wind Arrow of the Wugushi is hard to master, it's a difficult weapon to wield for someone without experience, no matter how good the materials of one's bow are.{nl}
+QUEST_JOBSTEP_20150317_000746	'You are forgetting the basics of archery. What is an Archer? It is someone who uses a tool called a bow, right?{nl}Do you think an archer existing without a bow is possible? {nl}Even if one gets famous for their skill with sword and spear, can one still call themselves an archer? In the end, archery is the concept of depending on tools, isn't it?'{nl}
+QUEST_JOBSTEP_20150317_000747	The disciple who had a different view argued back:{nl}'You said tools are important, let's talk about that.{nl}What is a bow? There are various weapons for an Archer. Just like there are weapons that don't need much skill to handle, like a crossbow, there are also weapons, effectiveness of which varies a lot based on a user's skill, like the ones of the Wugushi.{nl}The Wind Arrow of the Wugushi is hard to master, it's a difficult weapon to wield for someone without experience, no matter how good the materials of one's bow are.{nl}
 QUEST_JOBSTEP_20150317_000748	However, calling a catapult or a crossbow a weapon anyone can handle is not correct.{nl}You claim archery exists solely because there are tools, this is wrong.
-QUEST_JOBSTEP_20150317_000749	This is the same as saying that since people will die if they don't eat, their lives are less important than food and depend on it.{nl}Are you claiming that since you eat to be able to live on, you are living to eat?'{nl}Upon that, another disciple shared his viewpoint:{nl}'You are arguing about the path of the Archer, but you are only concentrating on one aspect.{nl}What you fail to address is that no matter how famous an archer one is, no matter how eagle-eyed one is, what they are using to their advantage is the wind. {nl}
-QUEST_JOBSTEP_20150317_000750	The arrow could not be shot if it wasn't for the wind and air that carries it to the mark, how could any sharpshooter exist, or rather, how much would an archer be able to do in that case? In the end, what is necessary for an archer is to sense the wind flow and to be able to act on it.'{nl}
+QUEST_JOBSTEP_20150317_000749	This is the same as saying that since people will die if they don't eat, their lives are less important than food and depend on it.{nl}Are you claiming that since you eat to be able to live on, you are living to eat?'{nl}Upon that, another disciple shared his viewpoint:{nl}'You are arguing about the Path of the Archer, but you are only concentrating on one aspect.{nl}What you fail to address is that no matter how famous an Archer one is, no matter how eagle-eyed one is, what they are using to their advantage is the wind. {nl}
+QUEST_JOBSTEP_20150317_000750	The arrow could not be shot if it wasn't for the wind and air that carries it to the mark, how could any sharpshooter exist, or rather, how much would an Archer be able to do in that case? In the end, what is necessary for an Archer is to sense the wind flow and to be able to act on it.'{nl}
 QUEST_JOBSTEP_20150317_000751	From then on, the disciples argued to no end, claims became more diverse and interesting, theories fired back and forth.{nl}Finally, they started wondering about what their master, Lydia Schaffen, would think of this.{nl}After having told her about the discussion they've had so far, they waited for her reply.{nl}
 QUEST_JOBSTEP_20150317_000752	When the disciples came to Lydia Schaffen, she is said to have been eating chestnuts using an arrowhead, dangerously perched on the railing of the Astral Tower.{nl}
 QUEST_JOBSTEP_20150317_000753	Lydia Schaffen continued eating while listening to the disciples, keeping her position on the railing. After they finished, she kept quiet for a while, but before long she fiddled with her fingers through the pile of shells of chestnuts she had eaten and picked out something, reportedly saying this: {nl}'What is this?'{nl}The disciple with the sharp eyes answered before anyone could.{nl}'It's the inner skin of a chestnut.'{nl}
@@ -773,15 +773,15 @@ QUEST_JOBSTEP_20150317_000772	Rumpelstiltskin moved nimbly to chase the flying a
 QUEST_JOBSTEP_20150317_000773	Her arrows poured faster than heavy rain during a hot summer day, as if hundreds, or even thousands of arrows were fired at the same time in the same direction. {nl}
 QUEST_JOBSTEP_20150317_000774	Rumpelstiltskin couldn't take it as calmly this round. Faster than the human eye could distinguish, Rumpelstiltskin landed on each arrow one by one and transferred to another as the barrage cut through the air. In the end, he was able to get onto the last arrow before it reached the last pine cone.{nl}Rumpelstiltskin spoke to Lydia Schaffen while trying to catch his breath.{nl}
 QUEST_JOBSTEP_20150317_000775	'So there, I managed to sit on every single arrow before the last arrow reached the target. I win.'{nl} Lydia Schaffen replied,{nl}' Certainly, I can't deny the fact you sat on every arrow before the last one reached its target.'{nl}
-QUEST_JOBSTEP_20150317_000776	Rumpelstiltskin gave a wicked grin after hearing Lydia Schaffen's words and said,{nl}'Meaning, I won this game. Now, as for the penalty we agreed on...'{nl}Before Rumpelstiltskin could finish, Lydia Schaffen shook her head and spoke,{nl}'Don't tell me that because you won two rounds, you won't play the final round? It's not acceptable, we clearly promised to play three rounds anyway, didn't we?'{nl}
-QUEST_JOBSTEP_20150317_000777	'The game doesn't end before the third round, so I think it's pointless to talk about penalties before the game has actually ended...'{nl}
-QUEST_JOBSTEP_20150317_000778	Recognizing that he has already won two rounds and had no reason to refuse a third, as well as the fact the game was certainly not over yet, Rumpelstiltskin had no choice but to abide by Lydia Schaffen's words.{nl}And so the final round began, Lydia Schaffen gauged her last arrow, and called out as she pulled the bowstring back:{nl}'My target is... the moon in the sky!'{nl}Rumpelstiltskin side-saddled the arrow as soon as it left the bowstring, and not before long, he realized what he heard.
+QUEST_JOBSTEP_20150317_000776	Rumpelstiltskin gave a wicked grin after hearing Lydia Schaffen's words and said,{nl}'Meaning, I won this game. Now, as for the penalty we agreed on…'{nl}Before Rumpelstiltskin could finish, Lydia Schaffen shook her head and spoke,{nl}'Don't tell me that because you won two rounds, you won't play the final round? It's not acceptable, we clearly promised to play three rounds anyway, didn't we?'{nl}
+QUEST_JOBSTEP_20150317_000777	'The game doesn't end before the third round, so I think it's pointless to talk about penalties before the game has actually ended…'{nl}
+QUEST_JOBSTEP_20150317_000778	Recognizing that he has already won two rounds and had no reason to refuse a third, as well as the fact the game was certainly not over yet, Rumpelstiltskin had no choice but to abide by Lydia Schaffen's words.{nl}And so the final round began, Lydia Schaffen gauged her last arrow, and called out as she pulled the bowstring back:{nl}'My target is… the moon in the sky!'{nl}Rumpelstiltskin side-saddled the arrow as soon as it left the bowstring, and not before long, he realized what he heard.
 QUEST_JOBSTEP_20150317_000779	And, as he rode the arrow towards the moon, Rumpelstiltskin also realized the fact that the game couldn't end until he reached it.{nl}As time passed, the power of the arrow subsided and it began falling towards the ground. However, after a time the arrow that Rumpelstiltskin rode on stopped still, floating in the sky.{nl}
 QUEST_JOBSTEP_20150317_000780	Just as Rumpelstiltskin, grinding his teeth, was about to open his mouth, Lydia Schaffen said,{nl}'For the game to end, you need to ride the arrow until it arrives at its target. The game cannot end before then. If you manage to touched the moon and come back, then I will definitely accept the penalty.'{nl}Having said so, Lydia Schaffen began walking away as Rumpelstiltskin watched, grinding his teeth once again, unable to change the course of the game.
 QUEST_JOBSTEP_20150317_000781	According to the anecdote, Rumpelstiltskin has not reached the moon yet, and is still flying there using the magic in his body. {nl}One can only guess if he will manage to return before his demonic life span ends.
 QUEST_JOBSTEP_20150317_000782	Nevertheless, as we know, Lydia Schaffen has passed away long ago. So while the demon did not lose the game, he has lost his chance to win the game forever. {nl}Still, the one matter left that we, as the current generation, are curious about is what the agreed penalty between Lydia Schaffen and Rumpelstiltskin was. {nl}Of course, we could ask a particular person, err, demon, that may or may not still be alive. However, as we do not know when he will return, it will be hard to settle this lingering matter for quite some time.{nl}
-QUEST_JOBSTEP_20150317_000783	The Expansion of Atman
-QUEST_JOBSTEP_20150317_000784	The Expansion of Atman
+QUEST_JOBSTEP_20150317_000783	Atman Extension
+QUEST_JOBSTEP_20150317_000784	Atman Extension
 QUEST_JOBSTEP_20150317_000785	Congratulations on receiving this book, which no criminal may see. There are many ways to use magic, but the magic used by Linkers are a particular case. Other mages exercise effect-based powers rather than magic. That is to say, to fight an enemy with a fireball, or with lightning, does not truly bind the enemy with magic. 
 QUEST_JOBSTEP_20150317_000786	These attacks only use magic to make a fireball and lightning. Then, the mages control the magical energy's direction and destination, releasing it after settling on both.
 QUEST_JOBSTEP_20150317_000787	In other words, these mages are unable to handle enemies without Linkers; as they need to channel and regulate surrounding energy, these mages do not have the time to easily handle targeting their magic towards an enemy. However, as you have chosen to walk the path of the Linker, the way of your magic will differ completely. The way of a Linker's magic is by directly linking your magic with your opponent's magic, which includes searching for your target within seconds.
@@ -789,11 +789,11 @@ QUEST_JOBSTEP_20150317_000788	Also, in the case of linking more than 2 targets, 
 QUEST_JOBSTEP_20150317_000789	Thus to some extent, the Linkers are experienced magic users who still have a lot of new fields to test. Even if there are those predestined to be Linkers, fledging mages who have developed their abilities to control magic are recommended becoming Linkers and walking the path of a Linker. Above all, the most important matter about Linkers is the establishment of their truly resolved soul, or Atman. Without it, it is possible for attacks directed at a magically linked target to return towards the Linker.
 QUEST_JOBSTEP_20150317_000790	For this reason, Linkers differ from other mages in which they must remember to use their magically established self as a tool. Particularly, when you must face other Linkers, your Atman is even more important.
 QUEST_JOBSTEP_20150317_000791	Congratulations again on receiving this book. The fact that you were able to find this book means that you have successfully found some sort of link between the visible world and the invisible world. Consequently, if you experience difficulty searching for a magical linkage point within a group of targets hereafter, it'll become easier to cast away insincerity.
-QUEST_JOBSTEP_20150317_000792	Armor from the Kadumel Era
-QUEST_JOBSTEP_20150317_000793	Armor from the Kadumel Era{/}
-QUEST_JOBSTEP_20150317_000794	{nl}{nl}Vados Winterspoon
-QUEST_JOBSTEP_20150317_000795	{nl}{nl}10 years have passed since I began my research. Now, exactly 30 years after the Civil War, I finally have results to show.{nl}Although the purpose of this research is to satisfy my small curiosity, if the scope were to be broadened, it may prove beneficial to the Winterspoon family.{nl}
-QUEST_JOBSTEP_20150317_000796	Anyway, after spending a long time searching every nook and cranny for information about Ruklys and his followers, I reached a conclusion.{nl}*These notes were compiled after the... from King Kadumel's men..., on the assumption that there are no contradictions.*{nl}During the period when the Civil War took place, there weren't any significant differences between the King's army and rebel army.
+QUEST_JOBSTEP_20150317_000792	Kadumel Era Armor
+QUEST_JOBSTEP_20150317_000793	Kadumel Era Armor {/}
+QUEST_JOBSTEP_20150317_000794	{nl}{nl}Vidotas Winterspoon
+QUEST_JOBSTEP_20150317_000795	{nl}{nl}10 years have passed since I began my research. Now, exactly 30 years after the civil war, I finally have results to show.{nl}Although the purpose of this research is to satisfy my small curiosity, if the scope were to be broadened, it may prove beneficial to the Winterspoon family.{nl}
+QUEST_JOBSTEP_20150317_000796	Anyway, after spending a long time searching every nook and cranny for information about Ruklys and his followers, I reached a conclusion.{nl}*These notes were compiled after the... from King Kadumel's troops/army/men..., on the assumption that there are no contradictions.*{nl}During the period when the civil war took place, there weren't any significant differences between the King's army and rebel army.
 QUEST_JOBSTEP_20150317_000797	Both sides had armaments of comparable quality.{nl} King Kadumel's army outnumbered the rebel army, but the Fortress of the Land and its surrounding city (now called Petrified City) was a favourable position to be situated in.
 QUEST_JOBSTEP_20150317_000798	Many of the attackers had to attack through a funnel, is my conclusion.{nl}These tactics reduced the numerical advantage from 10-to-1 to 3-to-1. *Ruklys intended to make a heroic defense in the Fortress of the Land*, The likelihood of victory is not great, even with 20 times the amount of troops. A theory commonly accepted by military scholars.{nl}
 QUEST_JOBSTEP_20150317_000799	King Kadumel had a numerical advantage in troops, but other factors involved are just as important.{nl}A significant difference, for example, is how wars are fought now compared to a thousand years ago.
@@ -813,9 +813,9 @@ QUEST_JOBSTEP_20150317_000812	However, the Mana Metal Ruklys collected did not h
 QUEST_JOBSTEP_20150317_000813	Upon visiting the location of the Fortress of the Land, my conclusion was proven correct. Pieces of the Mana Metal were found. I believe that they were used in battle. My hypothesis is that a small amount of the Mana Metal is sufficient to protect against the Kings' magician's wide area magic spells.{nl}
 QUEST_JOBSTEP_20150317_000814	Let's move our focus unto Ruklys. According to credible records, all the magic attacks even from the royal magicians were useless against Ruklys so the casualty toll kept rising until they had to use Lydia Schadden's arrow. Such supports my hypothesis.{nl}
 QUEST_JOBSTEP_20150317_000815	Judging from the clues discovered, Ruklys should have been wearing magic resistant armor at the time.{nl}{nl}Combined with other clues during that period of time, the armor Ruklys was wearing must have been produced using a large amount of Mana Metal.
-QUEST_JOBSTEP_20150317_000816	So I shall call this Mana Metal 
+QUEST_JOBSTEP_20150317_000816	So I shall call this Mana Metal
 QUEST_JOBSTEP_20150317_000817	Cold Iron
-QUEST_JOBSTEP_20150317_000818	 temporarily. {nl}{nl}
+QUEST_JOBSTEP_20150317_000818	temporarily. {nl}{nl}
 QUEST_JOBSTEP_20150317_000819	Basic Type
 QUEST_JOBSTEP_20150317_000820	Rough Advancement [Barbarian Advancement]
 QUEST_JOBSTEP_20150317_000821	Accept the battle with the Master
@@ -931,12 +931,12 @@ QUEST_JOBSTEP_20150317_000930	I will go and do the test
 QUEST_JOBSTEP_20150317_000931	Hidden Card [Bokor Advancement]
 QUEST_JOBSTEP_20150317_000932	I'll collect the cards
 QUEST_JOBSTEP_20150317_000933	Finding the Model [Dievdirbys Advancement] (1)
-QUEST_JOBSTEP_20150317_000934	I'll bring you a cat
+QUEST_JOBSTEP_20150317_000934	I'll bring the cat
 QUEST_JOBSTEP_20150317_000935	Finding the Model [Dievdirbys Advancement] (2)
 QUEST_JOBSTEP_20150317_000936	I'll check for traces of your father
-QUEST_JOBSTEP_20150317_000937	That's too bad, but I'll pass
+QUEST_JOBSTEP_20150317_000937	That's too bad, but I decline
 QUEST_JOBSTEP_20150317_000938	Finding the Model [Dievdirbys Advancement] (3)
-QUEST_JOBSTEP_20150317_000939	Let's go catch a cat
+QUEST_JOBSTEP_20150317_000939	Let's go catch the cat
 QUEST_JOBSTEP_20150317_000940	Let's rest before catching the cat.
 QUEST_JOBSTEP_20150317_000941	Luring/#SITGROPESET2/2/TRACK_BEFORE/None
 QUEST_JOBSTEP_20150317_000942	Notice/The cat is showing interest!
@@ -1231,7 +1231,7 @@ QUEST_JOBSTEP_20150317_001230	Find the Psychokino Master in Siauliai Miners' Vil
 QUEST_JOBSTEP_20150317_001231	Collect flower alcohol from Matsums at Spineheart Dale.
 QUEST_JOBSTEP_20150317_001232	The Psychokino Master asked you if you're interested in this field, and requested you to become his assistant. Go to Matsums Remaining Tree Dale to obtain flower alcohol of Matsums. 
 QUEST_JOBSTEP_20150317_001233	Give it to the Psychokino Master
-QUEST_JOBSTEP_20150317_001234	Acquired enough flower alcohols from Matsums at Remaining Tree Dale. Return to the Psychokino Master and hand over the flower alcochol.
+QUEST_JOBSTEP_20150317_001234	You've obtained enough flower alcohols from Matsums at Remaining Tree Dale. Return to the Psychokino Master and hand over the flower alcochol.
 QUEST_JOBSTEP_20150317_001235	The Psychokino Master seems to be very happy. Talk to the Psychokino Master again.
 QUEST_JOBSTEP_20150317_001236	Check the effects of research.
 QUEST_JOBSTEP_20150317_001237	The Psychokino Master told you that he installed Matsum dolls at Remaining Tree Dale and asked you to sprinkle the liquid medicine onto the dolls to check the effects.
@@ -1240,12 +1240,12 @@ QUEST_JOBSTEP_20150317_001239	As you sprinkled the liquid medicine, Matsums rush
 QUEST_JOBSTEP_20150317_001240	Talk to the Linker Master
 QUEST_JOBSTEP_20150317_001241	Find the Linker Master in Siauliai Miners' Village.
 QUEST_JOBSTEP_20150317_001242	Collect Materials for the test.
-QUEST_JOBSTEP_20150317_001243	The Linker Master emphasized the abilities of a Linker, and how they open up the minds of people. Obtain the Thornball Nuclues and the Velwriggler Fragments from Gate Route, which can be used to test the abilities of a Linker.
+QUEST_JOBSTEP_20150317_001243	The Linker Master emphasized the abilities of a Linker, and how they open up the minds of people. Obtain the Nucleuses of Dunballs and the Fragments of Belliglers from Gate Route, which can be used to test the abilities of a Linker.
 QUEST_JOBSTEP_20150317_001244	Give the materials to the Linker Master
 QUEST_JOBSTEP_20150317_001245	Got all the materials for the test. Give it to the Linker Master.
 QUEST_JOBSTEP_20150317_001246	Collect %s
-QUEST_JOBSTEP_20150317_001247	Thornball Nucleus
-QUEST_JOBSTEP_20150317_001248	Velwriggler Fragment
+QUEST_JOBSTEP_20150317_001247	Nucleuses of Dunball
+QUEST_JOBSTEP_20150317_001248	Fragments of Belligler
 QUEST_JOBSTEP_20150317_001249	Materials for the test are ready. Talk to the Linker Master to figure out what the test is.
 QUEST_JOBSTEP_20150317_001250	Obtain the book from the World Behind at Gate Route.
 QUEST_JOBSTEP_20150317_001251	The Linker Master told you that if you are competent, you will be able to find the World Behind from Gate Route. Go into the world behind and find the book there, so you can hand it over to the Linker Master.
@@ -1278,7 +1278,7 @@ QUEST_JOBSTEP_20150317_001277	This isn't the only book the Hunter Master is look
 QUEST_JOBSTEP_20150317_001278	Collect the Merrog Leather.
 QUEST_JOBSTEP_20150317_001279	The Hunter Master told you that you may be able to trade with the Quarrel Shooter Master with the Merrogg Leather you have for the book. Obtain the Merrogg Leather from Fallen Worry Forest.
 QUEST_JOBSTEP_20150317_001280	Hand over the Merrogg Leather to the Quarrel Shooter Master
-QUEST_JOBSTEP_20150317_001281	Acquired enough Merrogg Leather that are needed by the Quarrel Shooter Master. Hand over the Merrogg Leather to the Quarrel Shooter Master in Klaipeda.
+QUEST_JOBSTEP_20150317_001281	You've obtained enough Merrogg Leather that are needed by the Quarrel Shooter Master. Hand over the Merrogg Leather to the Quarrel Shooter Master in Klaipeda.
 QUEST_JOBSTEP_20150317_001282	Obtain %s by defeating Merogs
 QUEST_JOBSTEP_20150317_001283	The Hunter Master doesn't express it much, but he seems happy to have found the book. Talk to him about the next book to find.
 QUEST_JOBSTEP_20150317_001284	Collect rocks from the Crystal Mine entrance in Miners' Village
@@ -1465,7 +1465,7 @@ QUEST_JOBSTEP_20150317_001464	Talk to the Sapper Master in East Siauliai Woods.
 QUEST_JOBSTEP_20150317_001465	Collect Drakes' flame catalysts
 QUEST_JOBSTEP_20150317_001466	Sapper Master told you that he will help you to become Sapper if you help him with his experiment. Collect flame catalysts from Drakes in Mage Tower 1F.
 QUEST_JOBSTEP_20150317_001467	Hand over the flame catalysts to the Sapper Master
-QUEST_JOBSTEP_20150317_001468	Acquired all flame catalysts. Hand over the catalysts to the Sapper Master.
+QUEST_JOBSTEP_20150317_001468	You've obtained all flame catalysts. Hand over the catalysts to the Sapper Master.
 QUEST_JOBSTEP_20150317_001469	Defeat Drakes
 QUEST_JOBSTEP_20150317_001470	Experiments starts now. Talk to the Sapper Master again.
 QUEST_JOBSTEP_20150317_001471	Test the bomb
@@ -1601,7 +1601,7 @@ QUEST_JOBSTEP_20150317_001600	Talk with the Thaumaturge Master in Fedimian
 QUEST_JOBSTEP_20150317_001601	Collect the magic research documents in Mage Tower 3F
 QUEST_JOBSTEP_20150317_001602	The Thaumaturge Master told you that if you could help with his task, he will help you to become a Thaumaturge. Collect the magic research documents which the magicians abandoned in Mage Tower 3F.
 QUEST_JOBSTEP_20150317_001603	Give it to the Thaumaturge Master
-QUEST_JOBSTEP_20150317_001604	Acquired all the magic research materials. Hand them over to the Thaumaturge Master.
+QUEST_JOBSTEP_20150317_001604	You've obtained all the magic research materials. Hand them over to the Thaumaturge Master.
 QUEST_JOBSTEP_20150317_001605	Talk with the Elementalist Master in Fedimian
 QUEST_JOBSTEP_20150317_001606	Complete the assignment from the Elementalist Master
 QUEST_JOBSTEP_20150317_001607	Obtain Body Fluids of Slimes in Mage Tower 2F, Bone Fragments of Hallowventers in Crystal Brook, and the Activating Nuclei from Golems in Grave in Tree Dale.
@@ -1667,8 +1667,8 @@ QUEST_JOBSTEP_20150317_001666	Hand over the sacred relic to the Krivis Master
 QUEST_JOBSTEP_20150317_001667	The Krivis brother told you to go first with the sacred relic since he had something left to do. Hand the sacred relic to the Krivis Master.
 QUEST_JOBSTEP_20150317_001668	Meet the Swordsman Master
 QUEST_JOBSTEP_20150317_001669	Meet the Swordsman Master in Klaipeda
-QUEST_JOBSTEP_20150317_001670	Use the provoking orb at Penitence Route of Great Cathedral
-QUEST_JOBSTEP_20150317_001671	The Swordsman Master taught that courage to protect allies is very important. Provoke the monsters using the provoking orb at Penitence Route of Great Cathedral and defeat them.
+QUEST_JOBSTEP_20150317_001670	Use the provoking orb at Penitence Route of Cathedral
+QUEST_JOBSTEP_20150317_001671	The Swordsman Master taught that courage to protect allies is very important. Provoke the monsters using the provoking orb at Penitence Route of Cathedral and defeat them.
 QUEST_JOBSTEP_20150317_001672	You have fulfilled the amount which the Swordsman Master requested. Report back to the Swordsman Master.
 QUEST_JOBSTEP_20150317_001673	Find the Highlander Master
 QUEST_JOBSTEP_20150317_001674	Find the Highlander Master in Klaipeda.
@@ -1705,7 +1705,7 @@ QUEST_JOBSTEP_20150317_001704	You've received a firm promise from the Fletcher M
 QUEST_JOBSTEP_20150317_001705	Meet the Corsair Master
 QUEST_JOBSTEP_20150317_001706	Meet the Corsair Master in Starving Demon's Way
 QUEST_JOBSTEP_20150317_001707	Retrieve the objects from the Corsair Master
-QUEST_JOBSTEP_20150317_001708	Retrieve the items stolen from the Corsair Master in the Great Cathedral area.{nl}The Dock Permit can be found by defeating Moyas, the Navigator's Chart by defeating Stoulets and the Contract can be found by defeating Moyabu.
+QUEST_JOBSTEP_20150317_001708	Find the stolen belongings of the Corsair Master around the Cathedral area. {nl}Find the Port entry permit from Moya, Sailing Map from Staulit, and the Contract from Moyabu.
 QUEST_JOBSTEP_20150317_001709	Hand them over to the Corsair Master
 QUEST_JOBSTEP_20150317_001710	You found all the objects of the Corsair Master. Return to him and report.
 QUEST_JOBSTEP_20150317_001711	Find the permission to the Port entry
@@ -1766,11 +1766,11 @@ QUEST_JOBSTEP_20150317_001765	Use Flares to detect monsters and defeat them
 QUEST_JOBSTEP_20150317_001766	Use Flares to detect the monsters that are hidden in Purple Tree Fault Forest and defeat them.
 QUEST_JOBSTEP_20150317_001767	Report to the Scout Master
 QUEST_JOBSTEP_20150317_001768	Found all hidden monsters. Report back to the Scout Master.
-QUEST_JOBSTEP_20150317_001769	Defeat the monsters
+QUEST_JOBSTEP_20150317_001769	Defeat the monsters 
 QUEST_JOBSTEP_20150317_001770	Go to the Quarrel Shooter Master
 QUEST_JOBSTEP_20150317_001771	Get the rubbings from Lydia Schaffen's Gravestone
 QUEST_JOBSTEP_20150317_001772	The Quarrel Shooter Master wants the rubbings of Lydia Schaffen's Gravestone as a test. Get it from Goddess' Ancient Garden.
-QUEST_JOBSTEP_20150317_001773	Deliver to the Quarrel Shooter Master
+QUEST_JOBSTEP_20150317_001773	Deliver it to the Master Quarrel Shooter Master
 QUEST_JOBSTEP_20150317_001774	Got the rubbings. Give them to the Quarrel Shooter Master
 QUEST_JOBSTEP_20150317_001775	Go to the Rogue Master
 QUEST_JOBSTEP_20150317_001776	Go to the Rogue Master in Fedimian
@@ -1819,11 +1819,11 @@ QUEST_JOBSTEP_20150317_001818	You've defeated Reaverpede. Report back to Ranger 
 QUEST_JOBSTEP_20150317_001819	Defeat Reaverpede
 QUEST_JOBSTEP_20150317_001820	Call of the Quarrel Shooter Master
 QUEST_JOBSTEP_20150317_001821	The Quarrel Shooter Master in Klaipeda is looking for you
-QUEST_JOBSTEP_20150317_001822	Defeat the Templeshooter of Town Center
-QUEST_JOBSTEP_20150317_001823	The Quarrel Shooter Master says his disciples are giving ruining works and becoming an embarrassment for him. Go to the town center for the disciples and defeat the Templeshooter.
+QUEST_JOBSTEP_20150317_001822	Defeat the Temple Shooter of Town Center
+QUEST_JOBSTEP_20150317_001823	The Quarrel Shooter Master says his disciples are giving ruining works and becoming an embarrassment for him. Go to the town center for the disciples and defeat the Temple Shooter.
 QUEST_JOBSTEP_20150317_001824	Report to the Quarrel Shooter Master
-QUEST_JOBSTEP_20150317_001825	You've defeated Templeshooter. Report back to the Quarrel Shooter Master.
-QUEST_JOBSTEP_20150317_001826	Defeat Templeshooter
+QUEST_JOBSTEP_20150317_001825	You've defeated Temple Shooter. Report back to the Quarrel Shooter Master.
+QUEST_JOBSTEP_20150317_001826	Defeat Temple Shooter
 QUEST_JOBSTEP_20150317_001827	Call of the Sapper Master
 QUEST_JOBSTEP_20150317_001828	The Sapper Master in East Siauliai Woods is looking for you.
 QUEST_JOBSTEP_20150317_001829	Get Natural Mano Stones from Rocktortugas on Ruklys Street.
@@ -1860,7 +1860,7 @@ QUEST_JOBSTEP_20150317_001859	The Call of the Fletcher Master
 QUEST_JOBSTEP_20150317_001860	The Fletcher Master in Remaining Tree Dale is looking for you.
 QUEST_JOBSTEP_20150317_001861	Collect the well burnable stones
 QUEST_JOBSTEP_20150317_001862	The Fletcher Master told you that he would accept you as his disciple if you could bring him flammable stones. Defeat Yonazolems in the central district and collect well burnable stones.
-QUEST_JOBSTEP_20150317_001863	Acquired flammable stones. Hand them over to the Fletcher Master.
+QUEST_JOBSTEP_20150317_001863	You've obtained flammable stones. Hand them over to the Fletcher Master.
 QUEST_JOBSTEP_20150317_001864	Collect flammable stones
 QUEST_JOBSTEP_20150317_001865	Recruiting Challengers. [Schwarzer Reiter]
 QUEST_JOBSTEP_20150317_001866	Call of the Schwarzer Reiter Master
@@ -1869,7 +1869,7 @@ QUEST_JOBSTEP_20150317_001868	Duel against Schwarzer Reiter Master
 QUEST_JOBSTEP_20150317_001869	The Schwarzer Reiter Master told you that the guns and the swords are important, but you also need to possess the hatred. Duel against Schwarzer Reiter Master and win.
 QUEST_JOBSTEP_20150317_001870	Talk to the Schwarzer Reiter Master
 QUEST_JOBSTEP_20150317_001871	You've won against the Schwarzer Reiter Master. Talk with the Schwarzer Reiter Master.
-QUEST_JOBSTEP_20150317_001872	Acknowledgement of Schwarzer Reiter
+QUEST_JOBSTEP_20150317_001872	Acknowlegement of Schwarzer Reiter
 QUEST_JOBSTEP_20150317_001873	Go to the Cleric Master
 QUEST_JOBSTEP_20150317_001874	Go and talk to the Cleric Master in Klaipeda
 QUEST_JOBSTEP_20150317_001875	Obtain Wildflower Stamen from Lonesome Marketplace
@@ -1915,7 +1915,7 @@ QUEST_JOBSTEP_20150317_001914	Find the Monk Master in Remaining Tree Dale
 QUEST_JOBSTEP_20150317_001915	Defeat Lepus in the central district and obtain the toe nails of Lepus
 QUEST_JOBSTEP_20150317_001916	The Monk Master asked you to bring the proof of the determination to become a Monk. Defeat Lepus in the central district and bring it's toe nails as a proof.
 QUEST_JOBSTEP_20150317_001917	Give it to the Monk Master
-QUEST_JOBSTEP_20150317_001918	Acquired the toe nails of Lepus. Take them to the Monk Master.
+QUEST_JOBSTEP_20150317_001918	You've obtained the toe nails of Lepus. Take them to the Monk Master.
 QUEST_JOBSTEP_20150317_001919	Defeat Quick Lepus and obtain %s
 QUEST_JOBSTEP_20150317_001920	Defeat Quick Lepus
 QUEST_JOBSTEP_20150317_001921	Talk to the Pardoner Master
@@ -2120,7 +2120,7 @@ QUEST_JOBSTEP_20150317_002119	Meet the Cataphract Master in High Crooked Road.
 QUEST_JOBSTEP_20150317_002120	The Cataphract Master told you that it is important to break anything that disturbes your way. Defeat Gaigalas in Flowerless Forest to prove your skills.
 QUEST_JOBSTEP_20150317_002121	Defeated Gaigalas. Report to the Cataphract Master.
 QUEST_JOBSTEP_20150317_002122	Go to the Squire Master in Fedimian
-QUEST_JOBSTEP_20150317_002123	Defeat Poata and find the seal of family
+QUEST_JOBSTEP_20150317_002123	Defeate Poata and find the seal of family
 QUEST_JOBSTEP_20150317_002124	The Squire Master has the symbol of the Legwyn family. Defeat Poata in Layered Rock Forest to find the symbol.
 QUEST_JOBSTEP_20150317_002125	Report to the Squire Master
 QUEST_JOBSTEP_20150317_002126	Found the family's ornament. Report to the Squire Master.
@@ -2264,7 +2264,7 @@ QUEST_JOBSTEP_20150323_002263	It is your assignment to hunt for hidden monsters.
 QUEST_JOBSTEP_20150323_002264	If you want to learn anything from me, your feet have to be quick.{nl}Surpass 5 monsters using Smoke Bombs at the entrance of Kateen Forest.
 QUEST_JOBSTEP_20150323_002265	You want to learn from me. {nl}
 QUEST_JOBSTEP_20150323_002266	If that's the case, I want you to make a bet with the Hackapell Master on behalf of me.{nl}He thinks there is something in the world that can't be penetrated.{nl}
-QUEST_JOBSTEP_20150323_002267	If he asks you, I will tell him that our competent Hoplite defeated it.{nl}I will now acknowledge your skills.
+QUEST_JOBSTEP_20150323_002267	If he asks you, I will tell him that our competent Hoplite defeated it.{nl}I will now acknowlege your skills.
 QUEST_JOBSTEP_20150323_002268	I heard that the other masters sent the disciples to defeat Yekub at Owl Burial Ground.{nl}But that's the task you should complete. Go there.
 QUEST_JOBSTEP_20150323_002269	Leadership needs to be supported by the faith of the colleagues and the accumulated experiences.{nl}I will first have to find out if you are competent enough to command other people.
 QUEST_JOBSTEP_20150323_002270	When you go to the Greene Manor, you can meet Colimencia.{nl}You are worthy to be a Centurion if you can defeat it.
@@ -2299,7 +2299,7 @@ QUEST_JOBSTEP_20150323_002298	There are more wounded people, but the amount of h
 QUEST_JOBSTEP_20150323_002299	There's a monster called Colimencia at Grynas Hills.{nl}It is a threatening monster, but you should defeat it easily.
 QUEST_JOBSTEP_20150323_002300	The Poata at Grynas Hills is well known for attacking people.{nl}If you could defeat it, then that will be enough.
 QUEST_JOBSTEP_20150323_002301	If you want to learn from me, you should first show your skills to me.{nl}Colimencia at the Greene Manor would fit your reputation.
-QUEST_JOBSTEP_20150323_002302	If you want to become a true Cataphract, then you should be able to defeat Gaigalas at Tenants' Farm.{nl}Understood? Now, hurry up.
+QUEST_JOBSTEP_20150323_002302	If you want to become a true Cataphract, then you should be able to defeat Gaigalas at Tenents Farm.{nl}Understood? Now, hurry up.
 QUEST_JOBSTEP_20150323_002303	This... It must be the symbol of the Legwyn family.{nl}Thank you. As I promised, I will help you to reach to a higher level.
 QUEST_JOBSTEP_20150323_002304	You must first show your abilities before you start to learn from me. That's the manner.{nl}I think Honeypin at Tenants' Farm would be enough.
 QUEST_JOBSTEP_20150323_002305	If you want to learn something from me, then come back after defeating Gaigalas in Tenants' Farm.{nl}If you want to be acknowledged in terms of both your determination and your skills.
@@ -2413,7 +2413,7 @@ QUEST_JOBSTEP_20150323_002412	Something wrong happened to the Fletcher Master wh
 QUEST_JOBSTEP_20150323_002413	Defeat Moas at Fedimian Suburbs
 QUEST_JOBSTEP_20150323_002414	The Fletcher Master told you that if you could defeat Moas who broke the ingredients, he will change the turns. Defeat Moa at Fedimian Suburbs that are attacking the merchants.
 QUEST_JOBSTEP_20150323_002415	Meet the Corsair Master at Akmens Ridge
-QUEST_JOBSTEP_20150323_002416	Retrieve the items stolen from the Corsair Master in the Poslinkis Forest. The Dock Permit can be found by defeating High Vubbes, the Navigator's Chart by defeating High Vubbe Archers and the Contract can be found by defeating Green Pokuborns.
+QUEST_JOBSTEP_20150323_002416	Please find the stolen goods of the Corsair Master at Poslinkis Forest. You can find the entrace permit from High Vubbes, the sailing map from High Vubbe Archers, and the contract papers from Green Pokuborns.
 QUEST_JOBSTEP_20150323_002417	Meet the Rodelero Master at the Gateway of the Great King
 QUEST_JOBSTEP_20150323_002418	Find the Fletcher Master at Escanciu Village
 QUEST_JOBSTEP_20150323_002419	The Archer Master told you that if you could do him a favor, he will give you a lesson. As the Archer Master requested, go find the Fletcher Master at Escanciu Village and check what has happened to him.
@@ -2434,7 +2434,7 @@ QUEST_JOBSTEP_20150323_002433	Meet the Scout Master at Overlong Bridge Valley.
 QUEST_JOBSTEP_20150323_002434	Find the hidden monsters using flash bombs and defeat them
 QUEST_JOBSTEP_20150323_002435	Find the hidden monsters at Saknis Plains using flash bombs and defeat them.
 QUEST_JOBSTEP_20150323_002436	Defeat the detected monsters
-QUEST_JOBSTEP_20150323_002437	The Rogue Master told you that you need to take a test before she can teach you her skills. At the training field of the entrance of Kateen Forest, use smoke bombs on the monsters that are rushing in and defeat them.
+QUEST_JOBSTEP_20150323_002437	The Rogue Master told you that you need to take a test before he can teach you his skills. At the training field of the entrance of Kateen Forest, use smoke bombs to the monsters that are rushing in and defeat them.
 QUEST_JOBSTEP_20150323_002438	Defeat Shadowgaler at the Owl Burial Ground
 QUEST_JOBSTEP_20150323_002439	The Hoplite Master told you that before you learn a lesson, he wants you to defeat Shadowgaler first before the Hackapell Master defeates them. As she requested, defeat Shadowgaler at the Owl Burial Ground and come back.
 QUEST_JOBSTEP_20150323_002440	Defeat Yekub at Owl Burial Ground
@@ -2455,7 +2455,7 @@ QUEST_JOBSTEP_20150323_002454	The Scout Master told you that you need to be skil
 QUEST_JOBSTEP_20150323_002455	The Fletcher Master of Escanciu Village is looking for you
 QUEST_JOBSTEP_20150323_002456	Collect the burnable wood coals
 QUEST_JOBSTEP_20150323_002457	The Fletcher Master told you that if you could bring him some burnable wood coals, he will accept you as his disciple, but it seems that he's not telling the truth. Defeat Jonna Jolems at Aqueduct Bridge Area and collect burnable wood coals.
-QUEST_JOBSTEP_20150323_002458	Acquired burnable wood coals. Give them to the Fletcher Master.
+QUEST_JOBSTEP_20150323_002458	You've obtained burnable wood coals. Give them to the Fletcher Master.
 QUEST_JOBSTEP_20150323_002459	The Schwarzer Reiter Master at Awating Stone Bridge is looking for you
 QUEST_JOBSTEP_20150323_002460	Schwarzer Reiter told you that you need to have the courage to face against enemy til the end. Defeat Deadborn at the 1st zone of the Demon Prison and go back to Schwarzer Reiter.
 QUEST_JOBSTEP_20150323_002461	Report to the Schwarzer Reiter Master
@@ -2475,7 +2475,7 @@ QUEST_JOBSTEP_20150323_002474	You defeated Gaigalas. Return to the Paladin Maste
 QUEST_JOBSTEP_20150323_002475	Find the Monk Master at Escanciu Village.
 QUEST_JOBSTEP_20150323_002476	Get the sharp canines of Netherbovine in Poslinkis Forest.
 QUEST_JOBSTEP_20150323_002477	The Monk Master told you to bring the proof of the will to become a Monk. Defeat Netherbovine at Poslinkis Forest an obtain the Canine.
-QUEST_JOBSTEP_20150323_002478	Acquired the Canine of Netherbovine. Take it to the Monk Master.
+QUEST_JOBSTEP_20150323_002478	You've obtained the Canine of Netherbovine. Take it to the Monk Master.
 QUEST_JOBSTEP_20150323_002479	Meet the Pardoner Master at Fedimian Suburbs.
 QUEST_JOBSTEP_20150323_002480	The Pardoner Master wants you to retrieve the money of the lost indulgence for the assignment. Retrieve the lost money at the region near Aqueduct Bridge Area.
 QUEST_JOBSTEP_20150323_002481	Defeat Yonazolem that suddenly appeared
@@ -2562,7 +2562,7 @@ QUEST_JOBSTEP_20150414_002561	If you want to learn something from me, you should
 QUEST_JOBSTEP_20150414_002562	Oh, you came back already.{nl}Well done.{nl}
 QUEST_JOBSTEP_20150414_002563	If you want to learn something from me, defeat Gaigalas at Tenants' Farm.{nl}If you want your will and skills to be acknowledged.
 QUEST_JOBSTEP_20150414_002564	Stop the wrongdoings of the monsters.{nl}I heard that Colimencia are causing trouble at the Greene Manor.
-QUEST_JOBSTEP_20150414_002565	Are you ready?{nl}I will see you at the training hall of the Highlander Master.
+QUEST_JOBSTEP_20150414_002565	Are you ready?{nl}I will see you at the training gym of the Highlander Master
 QUEST_JOBSTEP_20150414_002566	Falconer Master
 QUEST_JOBSTEP_20150414_002567	So you want to become a Falconer Master.{nl}I don't know which bird will be your friend, but when you are intereacting with it, the best thing you can use is its food.
 QUEST_JOBSTEP_20150414_002568	Anything will be alright. Get some food from animal type monsters.{nl}I will test your abilities as a Pardoner by that.
@@ -2588,7 +2588,7 @@ QUEST_JOBSTEP_20150428_002587	Magics won't distinguish people, but I don't like 
 QUEST_JOBSTEP_20150428_002588	This is a rare meat. You must had hard time getting it.{nl}As a Falconer, I am counting on you from now on.{nl}
 QUEST_JOBSTEP_20150428_002589	And, it will be difficult to get a hawk at first.{nl}I will help you with this since we are the same Pardoners.
 QUEST_JOBSTEP_20150428_002590	All regions at Veja Ravine
-QUEST_JOBSTEP_20150428_002591	Defeat Stone Orca
+QUEST_JOBSTEP_20150428_002591	Defeat the Stone Orca
 QUEST_JOBSTEP_20150428_002592	The Wizard Master is emphasizing the importance of will. Defeat the Stone Orca from the 1st floor of Crystal Mine and go back to the Wizard Master.
 QUEST_JOBSTEP_20150428_002593	You've defeated all the Stone Orcas. Return to the Wizard Master and report.
 QUEST_JOBSTEP_20150511_002594	I heard that Minotaur have it somewhere in Sirdgela Forest.{nl}I heard that monster is not easy so you should be prepared a lot.
@@ -2733,13 +2733,13 @@ QUEST_JOBSTEP_20150714_002732	I was waiting for you. I knew that you would come 
 QUEST_JOBSTEP_20150714_002733	For example, dueling against me and win.
 QUEST_JOBSTEP_20150714_002734	Nice.{nl}You could start the next level training whenever you want.
 QUEST_JOBSTEP_20150714_002735	Now the time has come. It is so great that you came this far.{nl}But, your skills should be more than the average to reach the next level.
-QUEST_JOBSTEP_20150714_002736	I heard some idiotic baron opened the portal that is connected to Demon Prison.{nl}I received the request to block the demons from coming out from the Wing of Vaivora.
-QUEST_JOBSTEP_20150714_002737	I want to pass the task of defeating Deadborn to you.{nl}I think they will be good for hunting.
+QUEST_JOBSTEP_20150714_002736	I heard some idiotic baron opened the portal that is connected to Demon Prison.{nl}I received the request to block the demons from coming out from the Wing of Vibora.
+QUEST_JOBSTEP_20150714_002737	I want to pass the task of defeating Deadborn to you.{nl}I thnk they will be good for hunting.
 QUEST_JOBSTEP_20150714_002738	Very good indeed. You are competent enough.{nl}If you want to learn a new skill, you are always welcomed.
 QUEST_JOBSTEP_20150714_002739	That's why you should help me.{nl}Could you bring me natural Mano stones from Rocktortuga at Ruklys Memorial site?
 QUEST_JOBSTEP_20150714_002740	Don't be greedy on learning a new skill and just continue on what you were doing.{nl}I will think again if you could bring burnable coals from Yonazolems at Aqueduct Bridge Area.
 QUEST_JOBSTEP_20150714_002741	You possess splendid skills.{nl}I am happy to accept such disciple. I will teach you my skills.
-QUEST_JOBSTEP_20150714_002742	I received a request to block Rajatoad of Demon Prison from the Wings of Vaivora.{nl}If you aim to be the greatest Wugushi, I think you should defeat them. How about it?
+QUEST_JOBSTEP_20150714_002742	I received a request to block Rajatoad of Demon Prison from the Wing of Vibora.{nl}If you aim to be the greatest Wugushi, I think you should defeat them. How about it?
 QUEST_JOBSTEP_20150714_002743	What did you do to open that portal?{nl}Very good, good.
 QUEST_JOBSTEP_20150714_002744	You never let down my expectations. Well done.{nl}Okay. Shall we proceed again?
 QUEST_JOBSTEP_20150714_002745	Nice. I feel like I am seeing myself in old days.{nl}You are truly a Schwarzer Reiter.
@@ -2807,10 +2807,10 @@ QUEST_JOBSTEP_20150714_002806	Luring
 QUEST_JOBSTEP_20150714_002807	Notice/The cat is showing interest!#5
 QUEST_JOBSTEP_20150714_002808	Extracting wildflower alcohol
 QUEST_JOBSTEP_20150714_002809	Notice/Empty Box
-QUEST_JOBSTEP_20150714_002810	Yes
+QUEST_JOBSTEP_20150714_002810	Tell him yes
 QUEST_JOBSTEP_20150714_002811	Collect the seeds of Carcashus from Septyni Glen
 QUEST_JOBSTEP_20150714_002812	The Psychokino Master asked you to become his assistant if you are interested in this field. Obtain the seeds of Carcashus that are needed by the Psychokino Master from Septyni Glen.
-QUEST_JOBSTEP_20150714_002813	Acquired enough seeds of Carcashus from Septyni Glen. Return to the Psychokino Master and hand over the flower alcohol.
+QUEST_JOBSTEP_20150714_002813	You've obtained enough seeds of Carcashus from Septyni Glen. Return to the Psychokino Master and hand over the flower alcohol.
 QUEST_JOBSTEP_20150714_002814	The Hunter Master told you that if you help him finding the books, he will acknowledge you as a Hunter. As the Hunter Master told you, search for the books at Vubbe Outpost.
 QUEST_JOBSTEP_20150714_002815	The Quarrel Shooter Master asked you to help him search for the books. As the Quarrel Shooter Master told you, search for the books at Vubbe Outpost.
 QUEST_JOBSTEP_20150714_002816	The Archer Master asked you to help him search for the books. As the Archer Master told you, search for the books at Vubbe Outpost.
@@ -2820,7 +2820,7 @@ QUEST_JOBSTEP_20150714_002819	Obtain the coarse tree barks of Mentiwood as a com
 QUEST_JOBSTEP_20150714_002820	Collect the toe nails of Biteroses at Septyni Glen
 QUEST_JOBSTEP_20150714_002821	The Peltasta Master handed over a mission to you. Obtain the toe nails of Biteroses from Septyni Glen.
 QUEST_JOBSTEP_20150714_002822	All regions in Septyni Glen
-QUEST_JOBSTEP_20150714_002823	Acquired the toe nails of Biteroses. Hand them over to the Highlander Master in Klaipeda.
+QUEST_JOBSTEP_20150714_002823	You've obtained the toe nails of Biteroses. Hand them over to the Highlander Master in Klaipeda.
 QUEST_JOBSTEP_20150714_002824	The toe nails of Biteroses
 QUEST_JOBSTEP_20150714_002825	The Cryomancer Master told you that there's a valuable book which he is looking for and he wants you to bring that book. Meet the Siauliai Miners' Village Mayor to ask him about the whereabout of the book.
 QUEST_JOBSTEP_20150714_002826	Defeat Carcashus at Septyni Glen
@@ -2845,7 +2845,7 @@ QUEST_JOBSTEP_20150714_002844	Obtain the Imbued Evil Energy Pouches from the Vub
 QUEST_JOBSTEP_20150714_002845	The Priest Master asked you to defeat Vubbes around the Miners' Village to prove your sincerity. 
 QUEST_JOBSTEP_20150714_002846	Collect Green Ointments from Vubbes in Siauliai Miners' Village
 QUEST_JOBSTEP_20150714_002847	The Cleric Master told you that you can see higher level through dedications. Defeat the Vubbes in Siauliai Miners' Village and collect Green Ointments.
-QUEST_JOBSTEP_20150714_002848	Retrieve the items stolen from the Corsair Master in the Forest of Prayer. Find the Dock Permit, Navigator's Chart and the Contract by defeating the Prison Fighters.
+QUEST_JOBSTEP_20150714_002848	Retrieve the stolen goods which originally belongs to Corsair Master from Forest of Prayer. You can find Entry Permission, Sailing Map, and the Contract Papers from Prisonfighter.
 QUEST_JOBSTEP_20150714_002849	Go to the Fletcher Master in Goddess' Ancient Garden
 QUEST_JOBSTEP_20150714_002850	Hunt for 3 kinds of monsters in various regions
 QUEST_JOBSTEP_20150714_002851	The Hunter Master gave you an assignment regarding hunting for monsters that are scattered in various regions.{nl}Hunt for Duckies in Sunset Flag Forest, Black Drakes in the 5th floor of Mage Tower, and Kowaks from Forest of Prayer.
@@ -2948,19 +2948,19 @@ QUEST_JOBSTEP_20150717_002947	Return to the Druid Master.
 QUEST_JOBSTEP_20150717_002948	Go to the Oracle Master in Klaipeda
 QUEST_JOBSTEP_20150717_002949	Return to the Oracle Master.
 QUEST_JOBSTEP_20150729_002950	Please collect Tail Pins from Desmoduses in Tenet Church B1.{nl}They break easily so it's hard to get the decent ones.
-QUEST_JOBSTEP_20150729_002951	Nice. The Tail Pins are not broken.{nl}After our lesson, you will realize how great this is.
-QUEST_JOBSTEP_20150729_002952	You should get support from the Peltasta Master.{nl}She will welcome you if you obtain Coarse Tree Bark from Yognomes at Tenet Church B1.
+QUEST_JOBSTEP_20150729_002951	Nice. The Tail Pins are not broken.{nl}When you learn from me, you will realize how great this is.
+QUEST_JOBSTEP_20150729_002952	You should get support from the Peltasta Master.{nl}She will welcome you if you obtain coarse tree bark from Yognomes at Tenet Church B1.
 QUEST_JOBSTEP_20150729_002953	Please collect black needles from Glizardons in Tenet Church B1 and hand them over to the Highlander Master.{nl}I think that will be an adequate mission for you.
-QUEST_JOBSTEP_20150729_002954	If that's so, fight against Glizardons in Tenet Church B1.{nl}You'll come to realize something by doing so.
-QUEST_JOBSTEP_20150729_002955	You want to become an Alchemist.{nl}I'll find out if you are suitable.
-QUEST_JOBSTEP_20150729_002956	You want to be a better Squire.{nl}If you could fulfill my request, I will certainly help you.{nl}
-QUEST_JOBSTEP_20150729_002957	The Legwyn family once had a mansion that's now ruins.{nl}It got that way because of some incident... but, I don't want it to remain that way.{nl}I can't do anything about it at the moment, but please at least return the seal of the Legwyn family from there.
-QUEST_JOBSTEP_20150729_002958	You will find the seal which once shined brightly when you go to the ruins of the Legwyn family mansion.{nl}It is either broken or you may have hard time identifying it's original shape... hopefully it hasn't been totally destroyed by the monsters.
-QUEST_JOBSTEP_20150729_002959	How awful... If I become the official heir of the Legwyn family, I won't let it remain that way.{nl}Of course, I will remember to reward you as the Squire who completed my request.
-QUEST_JOBSTEP_20150729_002960	I don't mind meeting someone who wants to learn from me.{nl}But, that doesn't mean I will accept just anyone.{nl}
-QUEST_JOBSTEP_20150729_002961	When the coral plain was once underwater, {nl}I fought with the great pirate Vladslovas to decide who was the strongest.{nl}I won, but Vladslovas's necklace, which I should have taken as proof of my victory, fell into the sea.{nl}
-QUEST_JOBSTEP_20150729_002962	I gave up since it was far too deep back then, but I may be able to find it since the area has turned into land.{nl}Go to Cranto Coast and look for the necklace.{nl}It is quite dazzling, so you won't have hard time finding it.
-QUEST_JOBSTEP_20150729_002963	If I could find it, the people who thought I was bluffing will be very surprised!
+QUEST_JOBSTEP_20150729_002954	If that's so, fight against Glizardons in Tenet Church B1.{nl}You will realize something by doing so.
+QUEST_JOBSTEP_20150729_002955	You want to become an Alchemist.{nl}I should find out if you are suitable to become an Alchemist.
+QUEST_JOBSTEP_20150729_002956	You want to be a better Squire.{nl}If you could solve my request, I will certainly help you.{nl}
+QUEST_JOBSTEP_20150729_002957	The Legwyn family has a mansion that turned into ruins now.{nl}It turned out like that due to some bad incident... but, I don't want to leave the house like that.{nl}I can't do anything about it at the moment, but please at least get the seal of the Legwyn family from there.
+QUEST_JOBSTEP_20150729_002958	You will find the seal which once shined brightly when you go to the mansion of the Legwyn family.{nl}It is either broken or you may have hard time identifying it's original shape... maybe it could have been totally broken by the monsters.
+QUEST_JOBSTEP_20150729_002959	So horrible... If I become the official heir of the Legwyn family, I won't leave it like that.{nl}Of course, I will remember to help you as a Squire who completed my request well.
+QUEST_JOBSTEP_20150729_002960	I don't feel bad about meeting someone who wants to learn my skills.{nl}But, that doesn't mean I will accept anyone.{nl}
+QUEST_JOBSTEP_20150729_002961	When the coral plain that turned into a land once was sea, {nl}I once fought with the great pirate called Vladslovas to decide who is the strongest sea man.{nl}I had won, but the necklace of Vladslovas which I should have taken as the proof fell into the sea.{nl}
+QUEST_JOBSTEP_20150729_002962	I gave up since the sea was too deep at then, but I may be able to find it now since it turned into a land.{nl}Go to Coral Plain 32_1 to find the necklace.{nl}It is so dazzling so you won't have hard time finding it.
+QUEST_JOBSTEP_20150729_002963	If I could find it, the people told my words are full of bluffs will be surprised.
 QUEST_JOBSTEP_20150729_002964	You really found it!{nl}It is badly damaged, but I am sure this is it.{nl}Okay, I will teach you my skills as I promised to you!
 QUEST_JOBSTEP_20150729_002965	A centurion needs to contribute to the kingdom and thinks of it as his fame.{nl}Recently, I am collecting the flags of several Kingdom military squads that were annhilated on Medzio Diena.{nl}I hope you also help this task for the fame of kingdom soldiers.
 QUEST_JOBSTEP_20150729_002966	I heard there are kingdom soldiers who went lost at the training field of conflict on Medzio Diena.{nl}I don't expect that they are alive, but to remember their loyalty to the kingdom, I want you to find their flag.
@@ -3009,9 +3009,9 @@ QUEST_JOBSTEP_20150729_003008	After Rumpelstiltskin's seemingly honest answer, L
 QUEST_JOBSTEP_20150729_003009	Lydia Schaffen weighed her arrow, then called out the first target:{nl}'The tallest brown tree over there!'{nl}With those words, she released the arrow and it sliced through the air at a frightful speed{nl}
 QUEST_JOBSTEP_20150729_003010	Rumpelstiltskin moved nimbly to chase the flying arrow, and after he got on, the arrow impaled the tree. As the arrow continued to oscillate, he danced to the rhythm of the oscillation and sang an unknown tune.{nl}Lydia Schaffen again gauged her arrows, then she called:{nl}'All of the cones on that pine tree on my front-left side!'{nl}Upon calling the target, Lydia Schaffen unleashed her godlike archery skills. 
 QUEST_JOBSTEP_20150729_003011	'So there, I managed to sit on every single arrow before the last arrow reached the target. I win.'{nl} Lydia Schaffen replied,{nl}' Certainly, I can't deny the fact you sat on every arrow before the last one reached its target.'{nl}
-QUEST_JOBSTEP_20150729_003012	Rumpelstiltskin gave a wicked grin after hearing Lydia Schaffen's words and said,{nl}'Meaning, I won this game. Now, as for the penalty we agreed on...'{nl}Before Rumpelstiltskin could finish, Lydia Schaffen shook her head and spoke,{nl}'Don't tell me that because you won two rounds, you won't play the final round? It's not acceptable, we clearly promised to play three rounds anyway, didn't we?'{nl}
-QUEST_JOBSTEP_20150729_003013	'The game doesn't end before the third round, so I think it's pointless to talk about penalties before the game has actually ended...'{nl}
-QUEST_JOBSTEP_20150729_003014	Recognizing that he has already won two rounds and had no reason to refuse a third, as well as the fact the game was certainly not over yet, Rumpelstiltskin had no choice but to abide by Lydia Schaffen's words.{nl}And so the final round began, Lydia Schaffen gauged her last arrow, and called out as she pulled the bowstring back:{nl}'My target is... the moon in the sky!'{nl}Rumpelstiltskin side-saddled the arrow as soon as it left the bowstring, and not before long, he realized what he heard.
+QUEST_JOBSTEP_20150729_003012	Rumpelstiltskin gave a wicked grin after hearing Lydia Schaffen's words and said,{nl}'Meaning, I won this game. Now, as for the penalty we agreed on…'{nl}Before Rumpelstiltskin could finish, Lydia Schaffen shook her head and spoke,{nl}'Don't tell me that because you won two rounds, you won't play the final round? It's not acceptable, we clearly promised to play three rounds anyway, didn't we?'{nl}
+QUEST_JOBSTEP_20150729_003013	'The game doesn't end before the third round, so I think it's pointless to talk about penalties before the game has actually ended…'{nl}
+QUEST_JOBSTEP_20150729_003014	Recognizing that he has already won two rounds and had no reason to refuse a third, as well as the fact the game was certainly not over yet, Rumpelstiltskin had no choice but to abide by Lydia Schaffen's words.{nl}And so the final round began, Lydia Schaffen gauged her last arrow, and called out as she pulled the bowstring back:{nl}'My target is… the moon in the sky!'{nl}Rumpelstiltskin side-saddled the arrow as soon as it left the bowstring, and not before long, he realized what he heard.
 QUEST_JOBSTEP_20150729_003015	Just as Rumpelstiltskin, grinding his teeth, was about to open his mouth, Lydia Schaffen said,{nl}'For the game to end, you need to ride the arrow until it arrives at its target. The game cannot end before then. If you manage to touched the moon and come back, then I will definitely accept the penalty.'{nl}Having said so, Lydia Schaffen began walking away as Rumpelstiltskin watched, grinding his teeth once again, unable to change the course of the game.
 QUEST_JOBSTEP_20150729_003016	I will retrieve the seal
 QUEST_JOBSTEP_20150729_003017	Tell you don't want to get involved in a family matter
@@ -3029,21 +3029,21 @@ QUEST_JOBSTEP_20150729_003028	I will quit since it's scary
 QUEST_JOBSTEP_20150729_003029	Tell him to do his task on his own
 QUEST_JOBSTEP_20150729_003030	Collect Desmodus' Tail Pins at Tenet Church B1
 QUEST_JOBSTEP_20150729_003031	The Psychokino Master told you that he is interested in this field and he asked you to become his assistant. Please obtain Desmodus' Tail Pins in Tenet Church B1 that are needed by the Psychokino Master.
-QUEST_JOBSTEP_20150729_003032	Acquired enough Desmodus' Tail Pins. Return to the Psychokino Master and give them to him.
+QUEST_JOBSTEP_20150729_003032	You've obtained enough Desmodus' Tail Pins. Return to the Psychokino Master and give them to him.
 QUEST_JOBSTEP_20150729_003033	Obtain Coarse Barks from Yognome in Tenet Church B1.
 QUEST_JOBSTEP_20150729_003034	As a condition for requesting cooperation from the Peltasta Master in Klaipeda, obtain Coarse Barks from Yognomes in Tenet Church B1 and give them to her.
 QUEST_JOBSTEP_20150729_003035	Collect Glizardon's Black Nails in Tenet Church B1.
 QUEST_JOBSTEP_20150729_003036	The Peltasta Master gave you a mission. Obtain Glizardon's Black Nails in Tenet Church B1.
-QUEST_JOBSTEP_20150729_003037	Acquired the Glizardon's Black Nails. Hand them over to the Highlander Master in Klaipeda.
+QUEST_JOBSTEP_20150729_003037	You've obtained the Glizardon's Black Nails. Hand them over to the Highlander Master in Klaipeda.
 QUEST_JOBSTEP_20150729_003038	Glizardon's Black Nails
 QUEST_JOBSTEP_20150729_003039	Defeat a Glizardon in Tenet Church B1
 QUEST_JOBSTEP_20150729_003040	The Swordsman Master wants you to realize something. Defeat a Glizardon in Tenet Church B1 and realize the words that the Swordsman Master said.
 QUEST_JOBSTEP_20150729_003041	Look for the objects of the Great Pirate Vladslovas
 QUEST_JOBSTEP_20150729_003042	The Corsair Master wants to look for the objects of the Great Pirate Vladslovas and use them as a proof of the victory. Look for the objects of Vladslovas that went under the sea at Coral Plain 32_1 which once was sea. 
 QUEST_JOBSTEP_20150729_003043	You've found the broken necklace of the Great Pirate Vladslovas. Return to the Corsair Master.
-QUEST_JOBSTEP_20150729_003044	Retrieve the ripped Royal Army's Flag
-QUEST_JOBSTEP_20150729_003045	The Centurion Master wants to retrieve the flag of the Royal Army that was annihilated on Medzio Diena. Defeat the monsters at the Training Field of Confict and retrieve the ripped flag of the Royal Army.
-QUEST_JOBSTEP_20150729_003046	You've collected all the ripped flags of the Royal Army. Return to the Centurion Master.
+QUEST_JOBSTEP_20150729_003044	Retrieve the ripped Kingdom Military's Flag
+QUEST_JOBSTEP_20150729_003045	The Centurion Master wants to retrieve the flag of the Kingdom Military that was annihilated on Medzio Diena. Defeat the monsters at the Training Field of Confict and retrieve the ripped flag of the Kingdom Military.
+QUEST_JOBSTEP_20150729_003046	You've collected all the ripped flags of the Kingdom Military. Return to the Centurion Master.
 QUEST_JOBSTEP_20150729_003047	Find the whereabouts of the disappeared 
 QUEST_JOBSTEP_20150729_003048	The Doppelsoeldner Master told you that he lost the contact of envoy that is supposed to meet you at Pilgrim's Way 36_2. Find the whereabout of the envoy to find out what happened.  
 QUEST_JOBSTEP_20150729_003049	Defeat %s that rushed in
@@ -3056,8 +3056,8 @@ QUEST_JOBSTEP_20150729_003055	The memories of Crystal Mine are recorded enough i
 QUEST_JOBSTEP_20150729_003056	Obtain the keepsakes which you could feel strong regrets
 QUEST_JOBSTEP_20150729_003057	The Necromancer Master wants to create stronger Undead with more stronger materials. When the grudge of the dead ones become stronger, they will become good materials so obtain the keepsakes that you can feel strong regrets from Videntis Shrine.
 QUEST_JOBSTEP_20150729_003058	The Alchemist Master told you that in order to investigate Crystal Mine, he needs the orb that has the memories of the past of the Chronomancer Master. Obtain the orb that records the memories of the past from the Chronomancer Master.
-QUEST_JOBSTEP_20150729_003059	Acquired the orb that records the memories of the past. Return to the Alchemist Master.
-QUEST_JOBSTEP_20150729_003060	Acquired the orb that records the memories of the past. Talk with the Alchemist Master.
+QUEST_JOBSTEP_20150729_003059	You've obtained the orb that records the memories of the past. Return to the Alchemist Master.
+QUEST_JOBSTEP_20150729_003060	You've obtained the orb that records the memories of the past. Talk with the Alchemist Master.
 QUEST_JOBSTEP_20150729_003061	Explore Crystal Mine
 QUEST_JOBSTEP_20150729_003062	The Alchemist Master wants you to investigate the incident that occurred in Crystal Mine. With the glass orb that reflects the past which the Chronomancer Master gave to you, accomplish the exploration rate 100% in all regions of the 1st and 2nd district of Crystal Mine.
 QUEST_JOBSTEP_20150730_003063	Alchemist is not an easy way.{nl}We should first find out if you are suitable for it.
@@ -3118,7 +3118,7 @@ QUEST_JOBSTEP_20150803_003117	You've collected the keepsakes that have a heavy a
 QUEST_JOBSTEP_20150803_003118	Meet Vaidotas at Siauliai Miners' Village
 QUEST_JOBSTEP_20150803_003119	Vaidotas told you that in order to investigate Crystal Mine, he needs the Orb Recorder of Past Memories. Obtain the Orb Recorder of Past Memories from the Chronomancer Master.
 QUEST_JOBSTEP_20150803_003120	You've borrowed the orb that records the memories of the past. Return to Vaidotas.
-QUEST_JOBSTEP_20150803_003121	Acquired the orb that records the memories of the past. Talk with Vaidotas.
+QUEST_JOBSTEP_20150803_003121	You've obtained the orb that records the memories of the past. Talk with Vaidotas.
 QUEST_JOBSTEP_20150803_003122	Vaidotas wants you to investigate the incident that occurred in Crystal Mine. With the glass orb that the Chronomancer Master gave to you, and its ability to reflect the past, gain a 100% exploration rate in the 1st and 2nd district of Crystal Mine.
 QUEST_JOBSTEP_20150803_003123	The memories of Crystal Mine are recorded in the orb. Return to Vaidotas.
 QUEST_JOBSTEP_20150803_003124	Secretly give the present to the Scout Master
