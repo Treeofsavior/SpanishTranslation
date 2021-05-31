@@ -1,9 +1,9 @@
-UI_20150317_000001	{@st41b}Learn Attributes{nl}from respective masters of each class.{/}	{@st41b}각 클래스 마스터들에게서{nl}특성을 배울 수 있습니다.{/}				
+UI_20150317_000001	{@st41b}Aprende los Atributos{nl}de los respectivos maestros de cada clase.{/}	{@st41b}각 클래스 마스터들에게서{nl}특성을 배울 수 있습니다.{/}				
 UI_20150317_000002	{@st43}Lista de Atributos {/}	{@st43}특성 목록{/}				
 UI_20150317_000003	{@st59}Cerrar{/}	{@st59}특성리스트를 닫습니다{/}				
-UI_20150317_000004	{@st43}Learn Attributes{/}	{@st43}특성 배우기{/}				
+UI_20150317_000004	{@st43}Aprender Atributos{/}	{@st43}특성 배우기{/}				
 UI_20150317_000005	{@st59}Cerrar{/}	{@st59}특성창을 닫습니다{/}				
-UI_20150317_000006	{@st41b}Silver{/}	{@st41b}소지금{/}				
+UI_20150317_000006	{@st41b}Plata{/}	{@st41b}소지금{/}				
 UI_20150317_000007	My Achievements	나의 업적				
 UI_20150317_000008	Server Ranking	서버 랭킹				
 UI_20150317_000009	{@st59}An unexpected event is available.{/}	{@st59}돌발이벤트가 있습니다{/}				
@@ -992,10 +992,10 @@ UI_20150317_000991	{@St41b}Visit Barrack {/}	{@st41b}배럭방문{/}
 UI_20150317_000992	{@St59}Visit the Barrack of another player.{/}	{@st59}다른 사람의 배럭을 방문합니다.{/}				
 UI_20150317_000993	{@St41b}Logout{/}	{@st41b}로그아웃{/}				
 UI_20150317_000994	{@St59}Move to the login screen{/}	{@st59}로그인 화면으로 이동합니다{/}				
-UI_20150317_000995	{@St41b}Exit Game{/}	{@st41b}게임종료{/}				
-UI_20150317_000996	{@St59}Exit Tree of Savior{/}	{@st59}게임을 종료합니다{/}				
+UI_20150317_000995	{@St41b}Salir del juego{/}	{@st41b}게임종료{/}				
+UI_20150317_000996	{@St59}Salir de Tree of Savior{/}	{@st59}게임을 종료합니다{/}				
 UI_20150317_000997	{@st41b}Select Channel{/}	{@st41b}게임을 시작할 채널을 선택하세요{/}				
-UI_20150317_000998	{@st43}Enter{/}	{@st43}게임 시작{/}				
+UI_20150317_000998	{@st43}Entrar{/}	{@st43}게임 시작{/}				
 UI_20150317_000999	{@St59}Start the game with the selected character{/}	{@st59}선택한 캐릭터로 게임을 시작합니다{/}				
 UI_20150317_001000	{@St43}{s26}Team Name{/}	{@st43}{s26}팀 이름{/}				
 UI_20150317_001001	{@st59}Team Name{/}	{@st59}팀 이름{/}				
@@ -1021,15 +1021,15 @@ UI_20150317_001020	Account ID	계정
 UI_20150317_001021	{@st59}Enter your Account ID{/}	{@st59}계정을 입력 하십시오{/}				
 UI_20150317_001022	Password	비밀번호				
 UI_20150317_001023	{@St59}Enter your password{/}	{@st59}비밀 번호를 입력하십시오{/}				
-UI_20150317_001024	{@St43}Enter{/}	{@st43}게임 접속{/}				
-UI_20150317_001025	{@St59}Connect to the selected server{/}	{@st59}선택한 서버에 접속합니다{/}				
+UI_20150317_001024	{@St43}Entrar{/}	{@st43}게임 접속{/}				
+UI_20150317_001025	{@St59}Conectar al servidor seleccionado.{/}	{@st59}선택한 서버에 접속합니다{/}				
 UI_20150317_001026	{@st41b}Replay{/}	{@st41b}리플레이{/}				
 UI_20150317_001027	{@st41b}Single Mode{/}	{@st41b}싱글 모드{/}				
-UI_20150317_001028	{@St41b}Exit Game{/}	{@st41b}게임 종료{/}				
+UI_20150317_001028	{@St41b}Salir del juego{/}	{@st41b}게임 종료{/}				
 UI_20150317_001029	Save	저장				
 UI_20150317_001030	{@St59}If checked, your account will be saved{/}	{@st59}체크하면 계정을 저장합니다{/}				
-UI_20150317_001031	Server List	서버 목록				
-UI_20150317_001032	{@St59}Select Server{/}	{@st59}접속을 원하는 서버를 선택하여 주세요{/}				
+UI_20150317_001031	Lista de servidores	서버 목록				
+UI_20150317_001032	{@St59}Seleccionar servidor{/}	{@st59}접속을 원하는 서버를 선택하여 주세요{/}				
 UI_20150317_001033	Login Title	로그인타이틀				
 UI_20150317_001034	[Closed Beta version]	[클로즈 베타 테스트 버전]				
 UI_20150317_001035	Options	옵션				
@@ -1493,7 +1493,7 @@ UI_20150414_001492	{@st41b}Food	{@st41b}음식
 UI_20150414_001493	{@st42}Remove Refreshment Table	{@st42}배식대 해체				
 UI_20150414_001494	{@st41b}Records{/}	{@st41b}기록{/}				
 UI_20150414_001495	{@st41}Party Description	{@st41}파티 설명				
-UI_20150414_001496	{@st41b}Enter{/}	{@st41b}입력{/}				
+UI_20150414_001496	{@st41b}Entrar{/}	{@st41b}입력{/}				
 UI_20150414_001497	Roasting Level %s	로스팅 레벨 %s				
 UI_20150428_001498	{@st43}Buy-in Shop{/}	{@st43}매입상점{/}				
 UI_20150428_001499	{@st41b}Close	{@st41b}마감하기				
@@ -1588,7 +1588,7 @@ UI_20150714_001587	Any	관계없음
 UI_20150714_001588	{@st42}Class Type{/}	{@st42}원하는 클래스 계열{/}				
 UI_20150714_001589	{@st42}Party Name : %s{/}	{@st42}파티명 : %s{/}				
 UI_20150714_001590	{@st42}Description{/}	{@st42}파티 설명{/}				
-UI_20150714_001591	{@st42}Enter{/}	{@st42}입력{/}				
+UI_20150714_001591	{@st42}Entrar{/}	{@st42}입력{/}				
 UI_20150714_001592	{@st42}Item Distribution	{@st42}아이템 분배 규칙				
 UI_20150714_001593	{@st42}EXP Distribution	{@st42}경험치 분배 규칙				
 UI_20150714_001594	Individual EXP	각자얻기				
@@ -2306,8 +2306,8 @@ UI_20160811_002305	{@st66d}{s26}Right to Cancel{/}	{@st66d}{s26}청약철회{/}
 UI_20160811_002306	{@st59}View suggested dungeon locations{/}	{@st59}추천 던전 위치를 봅니다{/}				
 UI_20160811_002307	{@st41}Lodge %s (%s/%s){/}	{@st41}숙소%s (%s/%s){/}				
 UI_20160811_002308	{@st59}Move to Lodge.	{@st59}숙소를 이동합니다.				
-UI_20160811_002309	{@st59}Please select a server.{/}	{@st59}유라테(시즌 서버) 서버는 10/20까지 운영되는 이벤트 서버입니다.{nl}자세한 내용은 홈페이지 공지사항을 참고해주세요.{nl}바카리네, 라이마, 제미나, 가비야 서버는 바이보라 서버로 통합되었습니다.{/}	UI_20150317_001032	{@St59}Select Server{/}	{@st59}접속을 원하는 서버를 선택하여 주세요{/}	
-UI_20160811_002310	{@st59}Please select a server.{nl}The Vakarine, Laima, Zemyna, Gabija servers have been merged into the Vaivora server.{/}	{@st59}접속을 원하는 서버를 선택하여 주세요.{nl}바카리네, 라이마, 제미나, 가비야 서버가 바이보라 서버로 통합되었습니다.{/}	UI_20150317_001032	{@St59}Select Server{/}	{@st59}접속을 원하는 서버를 선택하여 주세요{/}	
+UI_20160811_002309	{@st59}Please select a server.{/}	{@st59}유라테(시즌 서버) 서버는 10/20까지 운영되는 이벤트 서버입니다.{nl}자세한 내용은 홈페이지 공지사항을 참고해주세요.{nl}바카리네, 라이마, 제미나, 가비야 서버는 바이보라 서버로 통합되었습니다.{/}	UI_20150317_001032	{@St59}Seleccionar servidor{/}	{@st59}접속을 원하는 서버를 선택하여 주세요{/}	
+UI_20160811_002310	{@st59}Please select a server.{nl}The Vakarine, Laima, Zemyna, Gabija servers have been merged into the Vaivora server.{/}	{@st59}접속을 원하는 서버를 선택하여 주세요.{nl}바카리네, 라이마, 제미나, 가비야 서버가 바이보라 서버로 통합되었습니다.{/}	UI_20150317_001032	{@St59}Seleccionar servidor{/}	{@st59}접속을 원하는 서버를 선택하여 주세요{/}	
 UI_20160811_002311	{@st66b}Move to other lodge	{@st66b}숙소 이동				
 UI_20160811_002312	{@st59}Move Lodge.{/}	{@st59}숙소를 이동시킵니다.{/}				
 UI_20160811_002313	{@st59}Delete Companion	{@st59}컴패니언 삭제				
@@ -3469,10 +3469,10 @@ UI_20180827_003468	Terms and Conditions	약관 안내
 UI_20180827_003469	{s18}See main screen timer	{s18}메인화면에서 타이머 표시하기				
 UI_20180827_003470	{@st66b}Reverb ON/OFF{/}	{@st66b}잔향효과 ON/OFF{/}				
 UI_20180827_003471	{@st59}Check to apply reverb.{/}	{@st59}잔향효과를 적용하려면 체크해 주세요.{/}				
-UI_20180827_003472	{@st66b}Enable Animated Illustrations	{@st66b}아이템 움직이는 일러스트 켜기				
+UI_20180827_003472	{@st66b}Activar ilustraciones animadas	{@st66b}아이템 움직이는 일러스트 켜기				
 UI_20180827_003473	 Use item?	 아이템을{nl} 사용하시겠습니까?{/}				
 UI_20180827_003474	It will be removed from %s and applied only to %s.{/}	사용한 %s {nl}인벤토리에서 사라지며 현재 %s에만 적용됩니다.{/}				
-UI_20180827_003475	Enable Animated Illustrations	움직이는 일러스트 켜기				
+UI_20180827_003475	Activar ilustraciones animadas	움직이는 일러스트 켜기				
 UI_20180827_003476	{@st41b}Purchase{/}	{@st41b}구매{/}				
 UI_20180827_003477	Search crafting materials.	제작서에 필요한 재료를 검색합니다.				
 UI_20180827_003478	{#002d93}Silver{/}{/} from {#8e0000}[%s %s] x%s{/}{/}: {#8e0000}[%s]{/}{/}	{#8e0000}[%s%s]{/}{/}아이템 {#8e0000}[%s개]{/}{/}의{nl}수령금액 {#002d93}%s실버{/}{/}				
