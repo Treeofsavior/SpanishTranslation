@@ -259,7 +259,7 @@ QUEST_LV_0100_20150317_000258	I am looking for evidence of artifact forgery.{nl}
 QUEST_LV_0100_20150317_000259	Of course you should show us your skills.{nl}Defeating Desert Chupacabras or Zinutes will be enough to prove yourself.
 QUEST_LV_0100_20150317_000260	Supply Officer
 QUEST_LV_0100_20150317_000261	Thank you for your help.{nl}I think this will be enough.{nl}
-QUEST_LV_0100_20150317_000262	)}{nl}If you have time, please tell our troops to assemble.{nl} If you choose not to, you may just go ahead to Klaipeda.
+QUEST_LV_0100_20150317_000262	Si tienes tiempo, por favor dile a nuestras tropas que se reúnan.{nl}Si prefieres no hacerlo, simplemente continúa hacia Klaipeda.
 QUEST_LV_0100_20150317_000263	Scout
 QUEST_LV_0100_20150317_000264	Go back, it's dangerous!{nl}Kepas will soon be marching in.
 QUEST_LV_0100_20150317_000265	Oh, you're a Revelator. It must be fate that we are to fight together. {nl}Let me give you the inside scoop.
@@ -6698,7 +6698,7 @@ QUEST_LV_0100_20150414_006697	Believer Domas says he needs Coliflower Sap becaus
 QUEST_LV_0100_20150414_006698	Combine Ridimed leaf and detox solvent to make antidote.
 QUEST_LV_0100_20150428_006699	I heard the sound of fighting so I came here in a hurry... So you really defeated  it?{nl}I only spotted Siaulambs at my location.{nl}Well done. You have done a meritorious deed.   
 QUEST_LV_0100_20150428_006700	I feel queasy.
-QUEST_LV_0100_20150428_006701	If you have time, please tell our troops to assemble. {nl}If you're not interested, then I'll leave you on your way to Klaipeda.
+QUEST_LV_0100_20150428_006701	Si tienes tiempo, por favor dile a nuestras tropas que se reúnan.{nl}Si no estás interesado, entonces dejaré que sigas tu camino hacia Klaipeda.
 QUEST_LV_0100_20150428_006702	Thank you so much for your support.{nl}Turn left at the crossroads ahead and follow the road. {-scp SCR_DIALOG_NPC_ANIM(
 QUEST_LV_0100_20150428_006703	Vubbe Fighter is hiding deep in the Nudeges Felled Area. {nl} We got the orders to kill but it may be safer to wait for additional troops.
 QUEST_LV_0100_20150428_006704	For the next one, we will need to apply Hallowventer Charcoal in order to read it.{nl}The next monument is at the right side of Negyvas Field.
