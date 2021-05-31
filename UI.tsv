@@ -68,38 +68,38 @@ UI_20150317_000067	{@st43}Registrar
 UI_20150317_000068	{@st43}Cancelar
 UI_20150317_000069	Máquina expendedora de Encantamientos
 UI_20150317_000070	{@st59}Cerrar
-UI_20150317_000071	{@st59}Buff Vending Machine{nl} - You can pay silver to receive buffs from another player.	{@st59}버프 자판기{nl} - 실버를 지불해 해당 플레이어에게 버프 기술을 시전받을 수 있습니다.				
-UI_20150317_000072	Carriage Menu	마차메뉴				
-UI_20150317_000073	{ol}{s22}Disembark{/}	{ol}{s22}내리기{/}				
-UI_20150317_000074	Casting	캐스팅				
-UI_20150317_000075	{@st43}Game Settings{/}	{@st43}게임설정{/}				
-UI_20150317_000076	{@st64}Use the arrow keys to select a cell!	{@st64}방향키를 입력해 셀을 선택하세요!				
-UI_20150317_000077	{@st43}Advancement Information {/}	{@st43}전직 정보{/}				
-UI_20150317_000078	{@st43}Select Class	{@st43}클래스 선택				
-UI_20150317_000079	Psychokinesist	사이코키네스스트				
-UI_20150317_000080	{@st42}%s Circle {/}	{@st42}%s 서클{/}				
-UI_20150317_000081	How many circles	몇 서클				
-UI_20150317_000082	Displays a brief description of the class.	클래스에 대한 간단한 설명을 이곳에 표시합니다.				
-UI_20150317_000083	{@st41b}Attack {@sti7}%s{/}	{@st41b}공격력 {@sti7}%s{/}				
-UI_20150317_000084	{@st41b}Support {@sti7}%s{/}	{@st41b}보조    {@sti7}%s{/}				
-UI_20150317_000085	{@st41b}Difficulty{@sti7}%s{/}	{@st41b}난이도 {@sti7}%s{/}				
-UI_20150317_000086	{@st59}Cerrar{/}	{@st59}클래스 정보 창을 닫습니다{/}				
-UI_20150317_000087	Advancement Alarm	전직 가능 알람				
-UI_20150317_000088	{@st43} Advancement	{@st43}클래스 전직				
-UI_20150317_000089	{@sti7}{s14} Character {/}	{@sti7}{s14}캐릭터{/}				
-UI_20150317_000090	{@sti8}{s14} Class {/}	{@sti8}{s14}클래스{/}				
-UI_20150317_000091	{@st44}Chat{/}	{@st44}채팅{/}				
-UI_20150317_000092	To. WWWWWWWW and 1 other	To. WWWWWWWW 외 1				
-UI_20150317_000093	General: /s chat {nl} Shout: /y chat {nl} Party: /p chat{nl} Whisper: /w character's username chat	일반 : /s 내용{nl}외침 : /y 내용{nl}파티 : /p 내용{nl}귓속말 : /w 캐릭명 내용				
-UI_20150317_000094	{@st41}All Chat{/}	{@st41}일반 대화{/}				
-UI_20150317_000095	{@59}Quit{/}	{@59}종료하기{/}				
-UI_20150317_000096	{@59}Invite{/}	{@59}초대하기{/}				
-UI_20150317_000097	{@st59}All{/}	{@st59}전체{/}				
-UI_20150317_000098	{@st59}Normal (/s chat){/}	{@st59}일반  (/s 할말){/}				
-UI_20150317_000099	{@st59}Shout (/y chat){/}	{@st59}외침  (/y 할말){/}				
-UI_20150317_000100	{@st59}Party (/p chat){/}	{@st59}파티  (/p 할말){/}				
-UI_20150317_000101	{@st59}Whisper (/w team name chat){/}	{@st59}귓속말   (/w 팀이름 할말){/}				
-UI_20150317_000102	{@st59}Adjust Chat Window{/}	{@st59}채팅창 크기 조절{/}				
+UI_20150317_000071	{@st59}Máquina expendedora de Encantamientos{nl} - Puedes pagar con plata para recibir encantamientos de otro jugador.
+UI_20150317_000072	Menú de la carroza
+UI_20150317_000073	{ol}{s22}Desmontar{/}
+UI_20150317_000074	Lanzando hechizo
+UI_20150317_000075	{@st43}Opciones de juego{/}
+UI_20150317_000076	{@st64}¡Usa las flechas para seleccionar una celda!
+UI_20150317_000077	{@st43}Información de progresión {/}
+UI_20150317_000078	{@st43}Selecciona una clase
+UI_20150317_000079	Psicoquinesista
+UI_20150317_000080	{@st42}%s Círculo {/}
+UI_20150317_000081	Cuántos círculos
+UI_20150317_000082	Muestra una breve descripción de la clase.
+UI_20150317_000083	{@st41b}Ataque {@sti7}%s{/}
+UI_20150317_000084	{@st41b}Apoyo {@sti7}%s{/}
+UI_20150317_000085	{@st41b}Dificultad{@sti7}%s{/}
+UI_20150317_000086	{@st59}Cerrar{/}
+UI_20150317_000087	Alarma de progresión
+UI_20150317_000088	{@st43} Progresión
+UI_20150317_000089	{@sti7}{s14} Personaje {/}
+UI_20150317_000090	{@sti8}{s14} Clase {/}
+UI_20150317_000091	{@st44}Chat{/}
+UI_20150317_000092	Para. WWWWWWWW y 1 otro
+UI_20150317_000093	General: /s mensaje.{nl} Grito: /y mensaje.{nl} Grupo: /p mensaje.{nl} Susurro: /w nombre del personaje, mensaje.
+UI_20150317_000094	{@st41}Todos los chats{/}
+UI_20150317_000095	{@59}Salir{/}
+UI_20150317_000096	{@59}Invitar{/}
+UI_20150317_000097	{@st59}Todo{/}
+UI_20150317_000098	{@st59}Normal (/s mensaje){/}
+UI_20150317_000099	{@st59}Grito (/y mensaje){/}
+UI_20150317_000100	{@st59}Grupo (/p mensaje){/}
+UI_20150317_000101	{@st59}Susurro (/w nombre del equipo, mensaje){/}
+UI_20150317_000102	{@st59}Ajustar ventana de chat{/}
 UI_20150317_000103	{@st43}{s22}Chat Macro{/}	{@st43}{s22}채팅 매크로{/}				
 UI_20150317_000104	{@st43}Macro{/}	{@st43}매크로{/}				
 UI_20150317_000105	{@st59b}Macro {nl} {@st59s} - How to use: {nl} 1. Drag a gesture icon to any gesture slots at the bottom. {nl} 2. Write your phrase and save. {nl} 3. Use the shortcut key to simultaneously use the phrase and make the gesture. {/}	{@st59b}매크로{nl}{@st59s} - 사용 방법 : {nl} 1. 상단의 제스쳐 아이콘을 하단의 제스쳐 슬롯에 등록{nl} 2. 대화문구 작성 후 저장{nl} 3. 해당 단축키를 사용해서 대사와 동시에 제스쳐 동작{/}				
