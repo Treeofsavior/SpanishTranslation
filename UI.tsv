@@ -40,34 +40,34 @@ UI_20150317_000039	{@st49}Borrar
 UI_20150317_000040	{@st44}Guardar{/}
 UI_20150317_000041	{@st44}Cancelar{/}
 UI_20150317_000042	{@st43}{s22}Tienda de peinados{/}
-UI_20150317_000043	{@st59}Previous Hairstyle{/}	{@st59}이전 머리{/}				
-UI_20150317_000044	{@st59}Next Hairstyle{/}	{@st59}다음 머리{/}				
-UI_20150317_000045	{@st41b} Change {s18} (100 TPs required) {/}	{@st41b}변경{s18}(NXP 100 필요){/}				
-UI_20150317_000046	{@st59}Change to selected hairstyle.{/}	{@st59}선택한 헤어로 변경합니다.{/}				
-UI_20150317_000047	{@st41}Cancel	{@st41}해약				
-UI_20150317_000048	{@st43}Black Market{/}	{@st43}블랙 마켓{/}				
-UI_20150317_000049	Book Name	책이름				
-UI_20150317_000050	{@St59}Stop Reading{/}	{@st59}독서를 그만둡니다{/}				
-UI_20150317_000051	{@st59}Previous Page{/}	{@st59}이전 페이지{/}				
-UI_20150317_000052	{@st59}Next Page{/}	{@st59}다음페이지{/}				
-UI_20150317_000053	{@st47}%s appeared!	{@st47}%s 등장!!				
-UI_20150317_000054	{@st43}Score{/}	{@st43}스코어{/}				
-UI_20150317_000055	Damage Received	받은 데미지				
-UI_20150317_000056	Technique Bonus	테크닉 보너스				
-UI_20150317_000057	Evasion Bonus	회피 보너스				
-UI_20150317_000058	Clear Time	클리어 시간				
-UI_20150317_000059	Total Score	총 점수				
-UI_20150317_000060	{@st42}Elapsed Time	{@st42}경과 시간				
-UI_20150317_000061	10 minutes	10분				
-UI_20150317_000062	10 seconds	10초				
-UI_20150317_000063	{@st44}Complete	{@st44}마감하기				
-UI_20150317_000064	{@st59}Cerrar{/}	{@st59}자판기를 닫습니다{/}				
-UI_20150317_000065	{@st43}Buff Vending Machine	{@st43}버프 자판기				
-UI_20150317_000066	Vending Machine Name	자판기 이름				
-UI_20150317_000067	{@st43}Register	{@st43}등록				
-UI_20150317_000068	{@st43}Cancel	{@st43}취소				
-UI_20150317_000069	Buff Vending Machine	버프 자판기				
-UI_20150317_000070	{@st59}Close	{@st59}버프 자판기를 닫습니다.				
+UI_20150317_000043	{@st59}Peinado anterior{/}
+UI_20150317_000044	{@st59}Peinado siguiente{/}
+UI_20150317_000045	{@st41b} Cambiar {s18} (100 TPs requeridos) {/}
+UI_20150317_000046	{@st59}Cambiar al peinado seleccionado.{/}
+UI_20150317_000047	{@st41}Cancelar
+UI_20150317_000048	{@st43}Mercado negro{/}
+UI_20150317_000049	Nombre de libro
+UI_20150317_000050	{@St59}Parar de leer{/}
+UI_20150317_000051	{@st59}Página anterior{/}
+UI_20150317_000052	{@st59}Página siguiente{/}
+UI_20150317_000053	{@st47}¿%s ha aparecido!
+UI_20150317_000054	{@st43}Puntuación{/}
+UI_20150317_000055	Daño recibido
+UI_20150317_000056	Bonus de técnica
+UI_20150317_000057	Bonus de evasión
+UI_20150317_000058	Tiempo en completar
+UI_20150317_000059	Puntuación total
+UI_20150317_000060	{@st42}Tiempo transcurrido
+UI_20150317_000061	10 minutos
+UI_20150317_000062	10 segundos
+UI_20150317_000063	{@st44}Completo
+UI_20150317_000064	{@st59}Cerrar{/}
+UI_20150317_000065	{@st43}Máquina expendedora de Encantamientos
+UI_20150317_000066	Nombre de la máquina expendedora
+UI_20150317_000067	{@st43}Registrar
+UI_20150317_000068	{@st43}Cancelar
+UI_20150317_000069	Máquina expendedora de Encantamientos
+UI_20150317_000070	{@st59}Cerrar
 UI_20150317_000071	{@st59}Buff Vending Machine{nl} - You can pay silver to receive buffs from another player.	{@st59}버프 자판기{nl} - 실버를 지불해 해당 플레이어에게 버프 기술을 시전받을 수 있습니다.				
 UI_20150317_000072	Carriage Menu	마차메뉴				
 UI_20150317_000073	{ol}{s22}Disembark{/}	{ol}{s22}내리기{/}				
