@@ -3548,7 +3548,7 @@ UI_20181017_003547	{@st41b}{s18}Current Enchant Jewels: %s	{@st41b}{s18}현재 �
 UI_20181017_003548	{@st66}{s18}{b}Consumes %s Enchant Jewel(s).	{@st66}{s18}{b}인챈트 쥬얼 %s개가 소비됩니다.				
 UI_20181017_003549	{@st59}Set Main Class{/}	{@st59}대표 클래스 설정{/}				
 UI_20181017_003550	{@st59}Tackle Box (Alt + F){/}	{@st59}낚시 살림통 (Alt + F){/}				
-UI_20181017_003551	{@st59}Skills and Attributes (F3){/}	{@st59}스킬과 특성 (F3){/}				
+UI_20181017_003551	{@st59}Habilidades y Atributos (F3){/}
 UI_20181017_003552	Used Items	사용 아이템				
 UI_20181017_003553	Title       %s	칭호       %s	UI_20150401_001453	Title: %s	칭호   %s	
 UI_20181017_003554	Reward       %s	보상       %s	UI_20150401_001454	Reward: %s	보상   %s	
@@ -3731,7 +3731,7 @@ UI_20190104_003730	* You will return to your Lodge after confirming.	* 변경 �
 UI_20190104_003731	* Common attributes will also be reset,{nl}and attribute points will be returned.	* 변경 시 공용 특성도 초기화 되며,{nl}이때 투자한 특성 포인트는 반환됩니다.				
 UI_20190104_003732	{@st41b}Repair Cost{/} %s	{@st41b}수리 비용{/} %s				
 UI_20190104_003733	{@st66b}%sResurrect with a Mysterious Crystal%s{/}	{@st66b}%s신비한 크리스탈로 부활하기%s{/}				
-UI_20190104_003734	{@st42}{s20}Skills and Attributes	{@st42}{s20}스킬과 특성				
+UI_20190104_003734	{@st42}{s20}Habilidades y Atributos
 UI_20190104_003735	{@st43}Craft Scroll	{@st43}주문서 제작	UI_20161005_002365	{@st43}Craft Spellbook	{@st43}스펠북 제작	
 UI_20190104_003736	{s18}Are you sure you want to use %s?{/}	{s18}%s 아이템을 사용하시겠습니까?{/}				
 UI_20190104_003737	This item will disappear from your inventory{nl}and %s will be reset.{/}	사용한 아이템은 인벤토리에서 사라지며{nl}%s가 초기화 됩니다.{/}				
