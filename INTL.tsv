@@ -1,16 +1,16 @@
-INTL_20160320_000001	+1 extra instance entry for missions and dungeons
-INTL_20160320_000002	Contains a variety of special benefits for all your characters in this server for 30 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +30% EXP from hunting monsters{nl} - Able to use Premium Gestures{nl}- Able to use Personal Trade up to 30 times{nl}- 1 extra instance entry for missions and dungeons{nl}
-INTL_20160320_000003	Contains a variety of special benefits for all your characters in this server for 60 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +30% EXP from hunting monsters{nl} - Able to use Premium Gestures{nl}- Able to use Personal Trade up to 60 times{nl}- 1 extra instance entry for missions and dungeons{nl}
-INTL_20160323_000004	- Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - Can only trade up to 30 times{nl}
-INTL_20160326_000005	Grants Token benefits to all your characters in the server for 60 days. Right-click to use.{nl}[Token Benefits]{nl} - Able to learn up to 2 attributes simultaneously{nl} - Reduced Market commission fee (30% {img white_right_arrow 16 16} 10%){nl} - Able to list up to 5 items on the Market{nl} - +3 increased character movement speed{nl} - +30% EXP from hunting monsters{nl}(Stacks with the EXP Tome effect){nl} - Able to use Premium Gestures{nl} - Increased maximum buff count{nl} - Able to use Personal Trade up to 60 times
-INTL_20160326_000006	Token: 30 Days
-INTL_20160329_000007	10x Enchant Scroll Box
-INTL_20160329_000008	Contains 10 Enchant Scrolls. Right-click to use.
-INTL_20160329_000009	10x Megaphone Box
-INTL_20160329_000010	Contains 10 Megaphones. Right-click to use.
-INTL_20160419_000011	Use to obtain 455 TP.
-INTL_20160419_000012	Use to obtain 266 TP.
-INTL_20160419_000013	Use to obtain 112 TP.
-INTL_20160419_000014	Right-click to obtain the following items:{nl} - 455 TP{nl} - Token (60 Days){nl} - Hair Accessory - Popolion Doll{nl} - Hair Accessory - Hanaming Doll{nl} - Hoglan Companion Voucher{nl} - Stat Reset Potion{nl} - Skill Reset Potion{nl}
-INTL_20160419_000015	Right-click to obtain the following items:{nl} - 266 TP{nl} - Token (30 Days){nl} - Hair Accessory - Popolion Doll{nl}
-INTL_20180903_000244	{ds}{b}{#ffefd6}30 min.: {#fe7e00}10 PUNTOS	{ds}{b}{#ffefd6}30분:{#fe7e00}10 PUNTOS				
+INTL_20160320_000001	+1 Entrada de instancia extra para misiones y mazmorras.
+INTL_20160320_000002	Contiene una variedad de beneficios especiales para todos tus personajes en este servidor durante 30 días. Botón derecho para usar.{nl}[Beneficios de la Ficha]{nl} - Capaz de aprender hasta 2 atributos simultáneamente{nl} - Comisión de mercado reducida (30% {img white_right_arrow 16 16} 10%){nl} - Permite publicar hasta 5 artículos en el mercado{nl} - +3 velocidad de movimiento del personaje aumentada{nl} - +30% EXP por cazar monstruos{nl} - Permite utilizar los gestos Premium{nl}- Permite utilizar el Intercambio personal hasta 30 veces{nl}- 1 entrada de instancia extra para misiones y mazmorras.{nl}
+INTL_20160320_000003	Contiene una variedad de beneficios especiales para todos tus personajes en este servidor durante 60 días. Botón derecho para usar.{nl}[Beneficios de la Ficha]{nl} - Capaz de aprender hasta 2 atributos simultáneamente{nl} - Comisión de mercado reducida (30% {img white_right_arrow 16 16} 10%){nl} - Permite publicar hasta 5 artículos en el mercado{nl} - +3 velocidad de movimiento del personaje aumentada{nl} - +30% EXP por cazar monstruos{nl} - Permite utilizar los gestos Premium{nl}- Permite utilizar el Intercambio personal hasta 60 veces{nl}- 1 entrada de instancia extra para misiones y mazmorras.{nl}
+INTL_20160323_000004	- Capaz de aprender hasta 2 atributos simultáneamente{nl} - Comisión de mercado reducida (30% {img white_right_arrow 16 16} 10%){nl} - Permite publicar hasta 5 artículos en el mercado{nl} - +3 velocidad de movimiento del personaje aumentada{nl} - Solo se puede comerciar un máximo de 30 veces{nl}
+INTL_20160326_000005	Concede los beneficios de la Ficha a todos tus personajes en el servidor durante 60 días. Botón derecho para usar.{nl}[Beneficios de la Ficha]{nl} - Capaz de aprender hasta 2 atributos simultáneamente{nl} - Comisión de mercado reducida (30% {img white_right_arrow 16 16} 10%){nl} - Permite publicar hasta 5 artículos en el mercado{nl} - +3 velocidad de movimiento del personaje aumentada{nl} - +30% EXP por cazar monstruos{nl}(Se acumula con el efecto del Tomo de EXP){nl} - Permite utilizar los gestos Premium{nl} - Número máximo de encantamientos incrementado{nl} - Permite utilizar el Intercambio personal hasta 60 veces.
+INTL_20160326_000006	Ficha: 30 Días
+INTL_20160329_000007	10x Caja de pergaminos encantados
+INTL_20160329_000008	Contiene 10 Pergaminos encantados. Botón derecho para usar.
+INTL_20160329_000009	10x Caja de Megáfonos
+INTL_20160329_000010	Contiene 10 Megáfonos. Botón derecho para usar.
+INTL_20160419_000011	Úsalo para obtener 455 TP.
+INTL_20160419_000012	Úsalo para obtener 266 TP.
+INTL_20160419_000013	Úsalo para obtener 112 TP.
+INTL_20160419_000014	Haz clic con el botón derecho del ratón para obtener los siguientes objetos:{nl} - 455 TP{nl} - Ficha (60 Días){nl} - Accesorio para el pelo - Muñeca Popolion{nl} - Accesorio para el pelo - Muñeca Hanaming{nl} - Cupón de Acompañante Hoglan{nl} - Poción de restablecimiento de Estadísticas{nl} - Poción de restablecimiento de Habilidades{nl}
+INTL_20160419_000015	Haz clic con el botón derecho del ratón para obtener los siguientes objetos:{nl} - 266 TP{nl} - Ficha (30 Días){nl} - Accesorio para el pelo - Muñeca Popolion{nl}
+INTL_20180903_000244	{ds}{b}{#ffefd6}30 min.: {#fe7e00}10 PUNTOS
