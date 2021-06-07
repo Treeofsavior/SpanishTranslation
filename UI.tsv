@@ -100,64 +100,64 @@ UI_20150317_000099	{@st59}Grito (/y mensaje){/}
 UI_20150317_000100	{@st59}Grupo (/p mensaje){/}
 UI_20150317_000101	{@st59}Susurro (/w nombre del equipo, mensaje){/}
 UI_20150317_000102	{@st59}Ajustar ventana de chat{/}
-UI_20150317_000103	{@st43}{s22}Chat Macro{/}
+UI_20150317_000103	{@st43}{s22}Macro de Chat{/}
 UI_20150317_000104	{@st43}Macro{/}
-UI_20150317_000105	{@st59b}Macro {nl} {@st59s} - How to use: {nl} 1. Drag a gesture icon to any gesture slots at the bottom. {nl} 2. Write your phrase and save. {nl} 3. Use the shortcut key to simultaneously use the phrase and make the gesture. {/}
+UI_20150317_000105	{@st59b}Macro {nl} {@st59s} - Cómo se usa: {nl} 1. Arrastra un icono de gesto a cualquier ranura dedicada en la parte inferior. {nl} 2. Escribe lo que quieras y guárdalo. {nl} 3. Utiliza la tecla de acceso directo para usar la frase y hacer el gesto simultáneamente. {/}
 UI_20150317_000106	{@st59}Cerrar{/}
-UI_20150317_000107	{@st41b}Save{/}
-UI_20150317_000108	{@st59}Save{/}
-UI_20150317_000109	{@st41b}Cancel{/}
-UI_20150317_000110	{@st59}Cancel{/}
-UI_20150317_000111	{@st42}Chat Settings
-UI_20150317_000112	{@st42}Transparency
-UI_20150317_000113	Show Chat Balloon
-UI_20150317_000114	Show Shouts on Top
-UI_20150317_000115	{@st43}Cheat List{/}
-UI_20150317_000116	{@st42b}Item{/}
-UI_20150317_000117	{@st42b}Monster{/}
-UI_20150317_000118	{@st42b}Move map{/}
-UI_20150317_000119	{@st42b}Combat Order{/}
-UI_20150317_000120	{@st41b}Close{/}
-UI_20150317_000121	{s16}{b}Create items by clicking on the Create button or double-click.
+UI_20150317_000107	{@st41b}Guardar{/}
+UI_20150317_000108	{@st59}Guardar{/}
+UI_20150317_000109	{@st41b}Cancelar{/}
+UI_20150317_000110	{@st59}Cancelar{/}
+UI_20150317_000111	{@st42}Ajustes del chat
+UI_20150317_000112	{@st42}Transparencia
+UI_20150317_000113	Mostrar globo de chat
+UI_20150317_000114	Mostrar Gritos en la parte superior
+UI_20150317_000115	{@st43}Lista de Trucos{/}
+UI_20150317_000116	{@st42b}Objeto{/}
+UI_20150317_000117	{@st42b}Monstruo{/}
+UI_20150317_000118	{@st42b}Mover mapa{/}
+UI_20150317_000119	{@st42b}Orden de combate{/}
+UI_20150317_000120	{@st41b}Cerrar{/}
+UI_20150317_000121	{s16}{b}Crea objetos haciendo clic en el botón Crear o haciendo doble clic.
 UI_20150317_000122	{s16}{b}ea
-UI_20150317_000123	{s16}{b}Lv.
-UI_20150317_000124	{@st41b}Search{/}
-UI_20150317_000125	{s16}{b}Summon monsters by clicking on the Create button or double-click.
+UI_20150317_000123	{s16}{b}Nv.
+UI_20150317_000124	{@st41b}Buscar{/}
+UI_20150317_000125	{s16}{b}Invoca monstruos haciendo clic en el botón Crear o haciendo doble clic.
 UI_20150317_000126	{s16}{b}ea
-UI_20150317_000127	{s16}{b}Select a desired area.
-UI_20150317_000128	{s18}{b}View Minimap{/}
-UI_20150317_000129	{@st41b}Tool List{/}
-UI_20150317_000130	{@st59b}Collection {nl}{@st59s}- Purchase the Collection Deck to add collectible items to your collection. {nl} - The collection hotkey will be enabled when you use the Collection Deck Item. {nl} {/}
+UI_20150317_000127	{s16}{b}Selecciona la zona deseada.
+UI_20150317_000128	{s18}{b}Ver Minimapa{/}
+UI_20150317_000129	{@st41b}Lista de Herramientas{/}
+UI_20150317_000130	{@st59b}Colección {nl}{@st59s}- Adquiere el Paquete de Colección para añadir objetos coleccionables a tu colección. {nl} - La tecla de acceso directo a la colección se activará cuando utilices el objeto Paquete de Colección. {nl} {/}
 UI_20150317_000131	{@st59}Cerrar{/}
-UI_20150317_000132	{@st43}Collection{/}
-UI_20150317_000133	{@st43}Color Spray{/}
-UI_20150317_000134	{@st49}Color Spray{/}
+UI_20150317_000132	{@st43}Colección{/}
+UI_20150317_000133	{@st43}Spray de color{/}
+UI_20150317_000134	{@st49}Spray de color{/}
 UI_20150317_000135	{@st49}Color{/}
-UI_20150317_000136	{@st49}Remaining{/}
-UI_20150317_000137	{@st49}Brush{/}
-UI_20150317_000138	{@st49}{a END_EDIT_SPRAY}Draw{/}{/}
-UI_20150317_000139	{@st49}{a SAVE_EDIT_SPRAY}Save{/}{/}
-UI_20150317_000140	{@st49}{a LOAD_EDIT_SPRAY}Import{/}{/}
-UI_20150317_000141	{@st49}Close{/}
-UI_20150317_000142	{@st43}Companion Adoption
-UI_20150317_000143	{@st59}Enter the name of your newly adopted companion {/}
-UI_20150317_000144	{@st41b}Name{/}
-UI_20150317_000145	{@st41b}Price %s{/}
+UI_20150317_000136	{@st49}Restante{/}
+UI_20150317_000137	{@st49}Pincel{/}
+UI_20150317_000138	{@st49}{a END_EDIT_SPRAY}Dibujar{/}{/}
+UI_20150317_000139	{@st49}{a SAVE_EDIT_SPRAY}Guardar{/}{/}
+UI_20150317_000140	{@st49}{a LOAD_EDIT_SPRAY}Importar{/}{/}
+UI_20150317_000141	{@st49}Cerrar{/}
+UI_20150317_000142	{@st43}Adopción de acompañantes
+UI_20150317_000143	{@st59}Introduce el nombre del acompañante recién adoptado {/}
+UI_20150317_000144	{@st41b}Nombre{/}
+UI_20150317_000145	{@st41b}Precio %s{/}
 UI_20150317_000146	{@st59}Cerrar{/}
-UI_20150317_000147	{@st41b}Adopt
-UI_20150317_000148	{@st59}Confirm{/}
-UI_20150317_000149	{@st43}Companion Shop
+UI_20150317_000147	{@st41b}Adoptar
+UI_20150317_000148	{@st59}Confirmar{/}
+UI_20150317_000149	{@st43}Tienda de Acompañantes
 UI_20150317_000150	{@st59}Cerrar{/}
-UI_20150317_000151	{@st43}Other Character Info{/}{@st42}
+UI_20150317_000151	{@st43}Otra información del personaje{/}{@st42}
 UI_20150317_000152	{@st59}Cerrar{/}
-UI_20150317_000153	{@st41b}Information
-UI_20150317_000154	{@st41b}Record
-UI_20150317_000155	Team Name
-UI_20150317_000156	Character Name
-UI_20150317_000157	Circle {#ffff00}%s{/} %s Lv. {#ffff00}%s{/}
-UI_20150317_000158	Warrior
-UI_20150317_000159	Adventure Index {#ffff00}%s{/} (Rank{#ffff00}%s{/}/%s)
-UI_20150317_000160	Adventure Index {#ffff00}%s{/} ({#ffff00}Unranked{/})
+UI_20150317_000153	{@st41b}Información
+UI_20150317_000154	{@st41b}Récord
+UI_20150317_000155	Nombre de equipo
+UI_20150317_000156	Nombre de personaje
+UI_20150317_000157	Círculo {#ffff00}%s{/} %s Nv. {#ffff00}%s{/}
+UI_20150317_000158	Guerrero
+UI_20150317_000159	Índice de aventuras {#ffff00}%s{/} (Clasificado{#ffff00}%s{/}/%s)
+UI_20150317_000160	Índice de aventuras {#ffff00}%s{/} ({#ffff00}Sin clasificar{/})
 UI_20150317_000161	Total Achievements : {#ffff00}%s{/}
 UI_20150317_000162	Settings
 UI_20150317_000163	Clear the tab title to delete the tab.
@@ -958,7 +958,7 @@ UI_20150317_000957	{@St41b}Item Arrangement{/}
 UI_20150317_000958	{@St41b}Name
 UI_20150317_000959	{@St41b}Price
 UI_20150317_000960	{@St41b}State
-UI_20150317_000961	{@St44}New Character{/}
+UI_20150317_000961	{@St44}Nuevo personaje{/}
 UI_20150317_000962	{@St41b}{s22}Select Character Class{/}
 UI_20150317_000963	{@St41b}Return{/}
 UI_20150317_000964	{@St59}Go back to your Lodge without creating a character
@@ -996,7 +996,7 @@ UI_20150317_000995	{@St41b}Salir del juego{/}
 UI_20150317_000996	{@St59}Salir de Tree of Savior{/}
 UI_20150317_000997	{@st41b}Select Channel{/}
 UI_20150317_000998	{@st43}Entrar{/}
-UI_20150317_000999	{@St59}Start the game with the selected character{/}
+UI_20150317_000999	{@St59}Comenzar el juego con el personaje seleccionado{/}
 UI_20150317_001000	{@St43}{s26}Team Name{/}
 UI_20150317_001001	{@st59}Team Name{/}
 UI_20150317_001002	{@st41b}Change Team Name{/}
@@ -1102,7 +1102,7 @@ UI_20150317_001101	{S14} Waist Size
 UI_20150317_001102	{S14} Pelvic Size
 UI_20150317_001103	Use Pre-set
 UI_20150317_001104	Randomize
-UI_20150317_001105	Create New Character
+UI_20150317_001105	Crea un personaje nuevo
 UI_20150317_001106	Cancel Character Creation
 UI_20150317_001107	{@St43}{s40}{gr gradation4}Game Start{/}
 UI_20150317_001108	{@St43}{s40}{gr gradation4}End Preview{/}
@@ -1173,7 +1173,7 @@ UI_20150317_001172	{@St41}Create a new conversation
 UI_20150317_001173	{@St41}Full Conversation
 UI_20150317_001174	Region Name
 UI_20150317_001175	{@St41}Skill Names
-UI_20150317_001176	{@St41}Attribute Points
+UI_20150317_001176	{@St41}Puntos de Atributo
 UI_20150317_001177	{@St41}Class Name
 UI_20150317_001178	Character Name
 UI_20150317_001179	{@Sti7}Delete{/}
@@ -1290,7 +1290,7 @@ UI_20150323_001289	{@st42}Cancel
 UI_20150323_001290	{@st42}Confirm
 UI_20150323_001291	{@st43}Briquetting{/}
 UI_20150323_001292	Current Potential
-UI_20150323_001293	Consumable Material
+UI_20150323_001293	Material consumible
 UI_20150323_001294	Consume Quantity
 UI_20150323_001295	Quantity Available
 UI_20150323_001296	{@sti6}Transaction Record
@@ -1334,7 +1334,7 @@ UI_20150323_001333	{@st41b}Repair{/}
 UI_20150323_001334	{@st41b}Log{/}
 UI_20150323_001335	Price to receive
 UI_20150323_001336	{@st59}Place a Gem{/}
-UI_20150323_001337	Consumable Material
+UI_20150323_001337	Material consumible
 UI_20150323_001338	Amount Left
 UI_20150323_001339	{@st42}Close
 UI_20150323_001340	{@st43}Weapon Maintenance{/}
@@ -2971,7 +2971,7 @@ UI_20171128_002970	* You will return to the barracks after confirming.
 UI_20171128_002971	{@st59}Rank Info{/}
 UI_20171128_002972	{@st66b}Simplify Buff Effects{/}
 UI_20171128_002973	{@st66b}Simplify Models{/}
-UI_20171128_002974	{@st59}Attendance Reward Check{/}
+UI_20171128_002974	{@st59}Recompensa de conexión{/}
 UI_20171128_002975	Returning to the previous class.
 UI_20171128_002976	Map name
 UI_20171128_002977	{@st42b}Use
@@ -3367,9 +3367,9 @@ UI_20180629_003366	Wig Shop List (M)
 UI_20180629_003367	Open Others
 UI_20180629_003368	Others List
 UI_20180629_003369	Purchase Test
-UI_20180629_003370	{@st66}{nl}Delete Character
+UI_20180629_003370	{@st66}{nl}Borrar personaje
 UI_20180629_003371	{@st66}{nl}Move Lodge
-UI_20180629_003372	{@st66}{nl}New Character
+UI_20180629_003372	{@st66}{nl}Nuevo personaje
 UI_20180629_003373	Cannot transfer appearance
 UI_20180629_003374	Basic{/}
 UI_20180629_003375	{#003997}{b}Stage Clear: %s
@@ -3786,7 +3786,7 @@ UI_20190104_003785	Skill Points:        %s/%s
 UI_20190104_003786	Related Attributes
 UI_20190104_003787	{@st43b}{s18}Attributes
 UI_20190104_003788	{@st41d}Cancel
-UI_20190104_003789	Attribute Points
+UI_20190104_003789	Puntos de Atributo
 UI_20190104_003790	Extract Attribute Points
 UI_20190104_003791	{@st66}Extract
 UI_20190104_003792	Purchase Attribute Points
@@ -4519,10 +4519,10 @@ UI_20200902_004518	Vote
 UI_20201012_004519	Event Roulette
 UI_20201012_004520	Current Coins in Possession
 UI_20201012_004521	{@st43}{s24}Draw
-UI_20201030_004522	{@st66b}Silver{/}
-UI_20201030_004523	{@st66b}Attribute Points{/}
+UI_20201030_004522	{@st66b}Plata{/}
+UI_20201030_004523	{@st66b}Puntos de Atributo{/}
 UI_20201030_004524	Consumed Attribute Points
-UI_20201030_004525	{ds}{b}{#ffefd6}Merc. Badge (Weekly)
+UI_20201030_004525	{ds}{b}{#ffefd6}Insignia Merc. (Seman.)
 UI_20201030_004526	{@st59}View the details about the Costume Collection.{/}
 UI_20201030_004527	{@st43b}{s24}Costume Collection{/}
 UI_20201030_004528	{@st59}Close the Costume Collection{/}
@@ -4545,7 +4545,7 @@ UI_20201030_004544	{@st41b}{s16}%s(Month) %s(Day) ~ %s(Month) %s(Day)
 UI_20201030_004545	{@st43}{s24}Contribute
 UI_20201030_004546	{@st41b}{s16}Please enter the number contributing
 UI_20201030_004547	{@st43}{s24}Continuous Contribute
-UI_20201030_004548	{@st66b}Show weekly acquisition amount of Mercenary Badge{/}
+UI_20201030_004548	{@st66b}Muestra la cantidad de adquisición semanal de Insignias de Mercenario.{/}
 UI_20201030_004549	Turn off login alerts
 UI_20201030_004550	Class Rank
 UI_20201030_004551	{@st66b}{s16}Accumulated Damage
